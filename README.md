@@ -30,6 +30,7 @@
 
 ## TypeScript
 
+*   [Tecvan-fe/vscode-lsp-sample](https://github.com/Tecvan-fe/vscode-lsp-sample) -
 *   [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
 *   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 *   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
@@ -159,7 +160,6 @@
 *   [denehyg/reveal.js-menu](https://github.com/denehyg/reveal.js-menu) - Slide out menu for reveal.js
 *   [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 *   [oflg/fishing](https://github.com/oflg/fishing) - Integrate Spaced Repetition System into TiddlyWiki
-*   [thediveo/TW5FontAwesome](https://github.com/thediveo/TW5FontAwesome) - ⚑ Embedding Font Awesome in TW5
 
 ## Vue
 
