@@ -4,19 +4,19 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [Shell](#shell)
 *   [Lua](#lua)
 *   [TypeScript](#typescript)
 *   [Vim Script](#vim-script)
 *   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
-*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [TeX](#tex)
 *   [RMarkdown](#rmarkdown)
 *   [Swift](#swift)
-*   [Shell](#shell)
 *   [C++](#c)
 *   [PHP](#php)
 *   [Rust](#rust)
@@ -26,103 +26,13 @@
 *   [Go](#go)
 *   [Perl](#perl)
 *   [VimL](#viml)
-*   [Makefile](#makefile)
-
-## Lua
-
-*   [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator
-*   [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
-*   [mrjones2014/nvim-ts-rainbow](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter.
-*   [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
-*   [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
-*   [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
-*   [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
-*   [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
-*   [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-*   [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
-*   [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
-*   [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
-*   [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-*   [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
-*   [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
-*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
-*   [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
-
-## TypeScript
-
-*   [project-vrcat/hitokoto-vrchat-api](https://github.com/project-vrcat/hitokoto-vrchat-api) - 一言 VRChat API
-*   [dragonman225/notablog](https://github.com/dragonman225/notablog) - Tell stories of your work with Notion
-*   [unjs/get-port-please](https://github.com/unjs/get-port-please) - 🔌 Get an available open port
-*   [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
-*   [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech\_balloon: Render Disqus comments in Mainland China using Disqus API
-*   [charkour/react-reactions](https://github.com/charkour/react-reactions) - 😲   Create custom reaction pickers and counters or use your favorites!
-*   [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
-*   [Tecvan-fe/vscode-lsp-sample](https://github.com/Tecvan-fe/vscode-lsp-sample) -
-*   [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
-*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-*   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
-*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
-*   [transitive-bullshit/kwote](https://github.com/transitive-bullshit/kwote) - Create beautiful quotes that capture your attention.
-*   [tiddly-gittly/Modern.TiddlyDev](https://github.com/tiddly-gittly/Modern.TiddlyDev) - Modern TiddlyWiki Developing Environment
-*   [tiddly-gittly/plugin-dev-cli](https://github.com/tiddly-gittly/plugin-dev-cli) - Tiddlywiki plugin development tool, working with Modern.TiddlyDev.
-*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-*   [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
-*   [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
-*   [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-*   [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
-*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-*   [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
-*   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-*   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
-*   [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-*   [catppuccin/wallpapers](https://github.com/catppuccin/wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups!
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-*   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
-*   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-*   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
-*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-## Vim Script
-
-*   [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
-*   [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
-
-## miscellaneous
-
-*   [vv314/quotes](https://github.com/vv314/quotes) - 收集了一些每日一句的接口与网站。
-*   [Bssn520/AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate) - 🤪动漫、电视剧的自动更新及在线观看。🫡
-*   [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
-*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
-*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
-*   [alim0x/Awesome-Linux-Software-zh\_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
-*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-*   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
-*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
-*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
-*   [Zacharia2/TWPUB-BOOK](https://github.com/Zacharia2/TWPUB-BOOK) - 收录TiddlyWiki的电子书（TWPUB）墨屉格式电子书
-
-## CSS
-
-*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
-*   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
-*   [dragonman225/notablog-starter](https://github.com/dragonman225/notablog-starter) - The official starter project for Notablog.
-*   [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
-*   [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
-*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 
 ## JavaScript
 
+*   [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
+*   [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+*   [eallion/memos.top](https://github.com/eallion/memos.top) - ✍ A static page rendered with the Memos API.
+*   [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 *   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 *   [Jermolene/tiddlywiki-on-fission](https://github.com/Jermolene/tiddlywiki-on-fission) - TiddlyWiki Application for Fission
 *   [xizeyoupan/Meting-API](https://github.com/xizeyoupan/Meting-API) - 🐳 Meting API 的容器化与部署
@@ -194,16 +104,113 @@
 *   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 *   [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
 *   [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
-*   [mmdapl/408CSFamily](https://github.com/mmdapl/408CSFamily) - 计算机408专业课：《计算机操作系统》、《数据结构》、《计算机网络》、《操作系统》分学科整理
+*   [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课：《计算机操作系统》、《数据结构》、《计算机网络》、《操作系统》
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 *   [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 *   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 
+## Shell
+
+*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
+*   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+*   [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
+
+## Lua
+
+*   [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator
+*   [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
+*   [mrjones2014/nvim-ts-rainbow](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter.
+*   [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+*   [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+*   [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
+*   [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
+*   [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
+*   [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
+*   [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
+*   [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
+*   [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+*   [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+*   [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
+*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
+*   [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
+
+## TypeScript
+
+*   [project-vrcat/hitokoto-vrchat-api](https://github.com/project-vrcat/hitokoto-vrchat-api) - 一言 VRChat API
+*   [dragonman225/notablog](https://github.com/dragonman225/notablog) - Tell stories of your work with Notion
+*   [unjs/get-port-please](https://github.com/unjs/get-port-please) - 🔌 Get an available open port
+*   [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
+*   [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech\_balloon: Render Disqus comments in Mainland China using Disqus API
+*   [charkour/react-reactions](https://github.com/charkour/react-reactions) - 😲   Create custom reaction pickers and counters or use your favorites!
+*   [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
+*   [Tecvan-fe/vscode-lsp-sample](https://github.com/Tecvan-fe/vscode-lsp-sample) -
+*   [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
+*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
+*   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
+*   [frankcbliu/awesome-nextjs-notion-blog](https://github.com/frankcbliu/awesome-nextjs-notion-blog) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+*   [transitive-bullshit/kwote](https://github.com/transitive-bullshit/kwote) - Create beautiful quotes that capture your attention.
+*   [tiddly-gittly/Modern.TiddlyDev](https://github.com/tiddly-gittly/Modern.TiddlyDev) - Modern TiddlyWiki Developing Environment
+*   [tiddly-gittly/plugin-dev-cli](https://github.com/tiddly-gittly/plugin-dev-cli) - Tiddlywiki plugin development tool, working with Modern.TiddlyDev.
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+*   [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
+*   [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
+*   [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
+*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+*   [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
+*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+*   [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+*   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
+*   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
+*   [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
+*   [catppuccin/wallpapers](https://github.com/catppuccin/wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups!
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+*   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+*   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+*   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
+*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+
+## Vim Script
+
+*   [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
+*   [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
+
+## miscellaneous
+
+*   [vv314/quotes](https://github.com/vv314/quotes) - 收集了一些每日一句的接口与网站。
+*   [Bssn520/AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate) - 🤪动漫、电视剧的自动更新及在线观看。🫡
+*   [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
+*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
+*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
+*   [alim0x/Awesome-Linux-Software-zh\_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
+*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+*   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
+*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+## CSS
+
+*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
+*   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
+*   [dragonman225/notablog-starter](https://github.com/dragonman225/notablog-starter) - The official starter project for Notablog.
+*   [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+*   [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
+*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+
 ## Python
 
 *   [akhater/Lupin](https://github.com/akhater/Lupin) -
 *   [kaedea/notion-up](https://github.com/kaedea/notion-up) - Use NotionUp (Notion Backup) + CircleCI to  backup your notion data nightly.｜自动备份 Notion 数据。｜Notion データのバックアップを自動化する
+*   [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
 *   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 *   [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 *   [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
@@ -236,12 +243,6 @@
 ## Swift
 
 *   [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-
-## Shell
-
-*   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
-*   [laishulu/Sarasa-Mono-SC-Nerd](https://github.com/laishulu/Sarasa-Mono-SC-Nerd) - 简体中文等距更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
-*   [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
 
 ## C++
 
@@ -283,7 +284,6 @@
 *   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
 *   [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) - LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua.
 *   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 
 ## Perl
 
@@ -292,7 +292,3 @@
 ## VimL
 
 *   [szw/vim-maximizer](https://github.com/szw/vim-maximizer) - Maximizes and restores the current window in Vim.
-
-## Makefile
-
-*   [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
