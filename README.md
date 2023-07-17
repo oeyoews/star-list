@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
 *   [Lua](#lua)
+*   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [Clojure](#clojure)
 *   [Rust](#rust)
-*   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
@@ -37,16 +37,60 @@
 *   [Batchfile](#batchfile)
 *   [RMarkdown](#rmarkdown)
 *   [Perl](#perl)
-*   [Makefile](#makefile)
+
+## Lua
+
+*   [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) -
+*   [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) - Rainbow delimiters for Neovim through Tree-sitter
+*   [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content of neovim buffer.
+*   [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
+*   [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) -
+*   [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - almost not wip
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+*   [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
+*   [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
+*   [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - Ranger plugin for neovim
+*   [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
+*   [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
+*   [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
+*   [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) -
+*   [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
+*   [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
+*   [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+*   [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
+*   [Al0den/notion.nvim](https://github.com/Al0den/notion.nvim) - Notion API wrapper for Neovim
+*   [laytan/tailwind-sorter.nvim](https://github.com/laytan/tailwind-sorter.nvim) - Easily sort Tailwind classes in Neovim.
+*   [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) - A source for nvim-cmp to convert tailwindcss classes to pure css codes
+*   [EMPAT94/nvim-rss](https://github.com/EMPAT94/nvim-rss) - A simple rss reader plugin for neovim
+*   [themaxmarchuk/tailwindcss-colors.nvim](https://github.com/themaxmarchuk/tailwindcss-colors.nvim) - Highlights Tailwind CSS class names when @tailwindcss/language-server is connected
+*   [DanielVolchek/tailiscope.nvim](https://github.com/DanielVolchek/tailiscope.nvim) - TailwindCSS cheatsheet within Telescope
+*   [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
+*   [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.8+.
+*   [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
+*   [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
+*   [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
+*   [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
+*   [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
+*   [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 
 ## TypeScript
 
+*   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+*   [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
+*   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.
+*   [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
+*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+*   [hqasmei/nextjs13.2-blog](https://github.com/hqasmei/nextjs13.2-blog) - This is a Next.js 13.2, Tailwind CSS and Prisma blogging starter template.
+*   [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
 *   [DeepLcom/deepl-node](https://github.com/DeepLcom/deepl-node) - Official Node.js library for the DeepL language translation API.
 *   [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
 *   [zolplay-cn/website](https://github.com/zolplay-cn/website) - Zolplay website repo // 佐玩官网
 *   [oeyoews/chatgpt-terminal-plus](https://github.com/oeyoews/chatgpt-terminal-plus) -
 *   [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 *   [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
+*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 *   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 *   [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
@@ -81,7 +125,7 @@
 *   [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 *   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 *   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 *   [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 *   [Th1nhNg0/th1nhng0.vercel.app](https://github.com/Th1nhNg0/th1nhng0.vercel.app) -
@@ -135,7 +179,7 @@
 *   [egoist/openai-proxy](https://github.com/egoist/openai-proxy) - OpenAI proxy on Cloudflare Worker / Vercel Edge
 *   [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 *   [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-*   [nishanths/zoom.js](https://github.com/nishanths/zoom.js) - Port of fat/zoom.js - no dependencies, statically typed, better API.
+*   [nishanths/zoom.js](https://github.com/nishanths/zoom.js) - Fork of fat/zoom.js - no dependencies, statically typed, better API.
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 *   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
@@ -188,111 +232,13 @@
 *   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 *   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 *   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
-*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-
-## miscellaneous
-
-*   [simonswiss/next.js](https://github.com/simonswiss/next.js) - The React Framework
-*   [sindresorhus/tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects
-*   [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja) - Repository for Console Ninja questions and issues
-*   [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
-*   [Mqxx/GitHub-Markdown](https://github.com/Mqxx/GitHub-Markdown) - Additional Markdown for GitHub.
-*   [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development
-*   [puxiao/react-hook-tutorial](https://github.com/puxiao/react-hook-tutorial) - React Hook 系列教程，学习和探索Hooks世界。
-*   [iuap-design/blog](https://github.com/iuap-design/blog) - 📖 用友网络大前端技术团队博客
-*   [wxlvip/Interviewer](https://github.com/wxlvip/Interviewer) -
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-*   [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [AndreasEracleous/gatsby-blog-template](https://github.com/AndreasEracleous/gatsby-blog-template) - ✍️ A GatsbyJS Blog Template for blogging purposes.
-*   [ruanyf/jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
-*   [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
-*   [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
-*   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
-*   [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
-*   [safak/youtube2022](https://github.com/safak/youtube2022) - Season 2 on Lama Dev
-*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-*   [vv314/quotes](https://github.com/vv314/quotes) - 收集了一些每日一句的接口与网站。
-*   [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
-*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
-*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
-*   [alim0x/Awesome-Linux-Software-zh\_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
-*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-*   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
-*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
-*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
-
-## Lua
-
-*   [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content of neovim buffer.
-*   [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
-*   [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) -
-*   [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - almost not wip
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-*   [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
-*   [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
-*   [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - Ranger plugin for neovim
-*   [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
-*   [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
-*   [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
-*   [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) -
-*   [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
-*   [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
-*   [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
-*   [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
-*   [Al0den/notion.nvim](https://github.com/Al0den/notion.nvim) - Notion API wrapper for Neovim
-*   [laytan/tailwind-sorter.nvim](https://github.com/laytan/tailwind-sorter.nvim) - Easily sort Tailwind classes in Neovim.
-*   [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) - A source for nvim-cmp to convert tailwindcss classes to pure css codes
-*   [EMPAT94/nvim-rss](https://github.com/EMPAT94/nvim-rss) - A simple rss reader plugin for neovim
-*   [themaxmarchuk/tailwindcss-colors.nvim](https://github.com/themaxmarchuk/tailwindcss-colors.nvim) - Highlights Tailwind CSS class names when @tailwindcss/language-server is connected
-*   [DanielVolchek/tailiscope.nvim](https://github.com/DanielVolchek/tailiscope.nvim) - TailwindCSS cheatsheet within Telescope
-*   [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
-*   [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.8+.
-*   [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
-*   [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
-*   [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
-*   [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-*   [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
-*   [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
-*   [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
-*   [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-*   [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
-*   [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
-*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
-*   [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
-
-## Clojure
-
-*   [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
-
-## Rust
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
-*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-*   [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## JavaScript
 
+*   [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
+*   [safak/nextjs-tutorial](https://github.com/safak/nextjs-tutorial) -
 *   [rolodato/dotenv-safe](https://github.com/rolodato/dotenv-safe) - Load environment variables from .env and ensure they are all present
 *   [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
-*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 *   [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 *   [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 *   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
@@ -495,7 +441,64 @@
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 *   [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-*   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+
+## miscellaneous
+
+*   [simonswiss/next.js](https://github.com/simonswiss/next.js) - The React Framework
+*   [sindresorhus/tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects
+*   [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja) - Repository for Console Ninja questions and issues
+*   [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
+*   [Mqxx/GitHub-Markdown](https://github.com/Mqxx/GitHub-Markdown) - Additional Markdown for GitHub.
+*   [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development
+*   [puxiao/react-hook-tutorial](https://github.com/puxiao/react-hook-tutorial) - React Hook 系列教程，学习和探索Hooks世界。
+*   [iuap-design/blog](https://github.com/iuap-design/blog) - 📖 用友网络大前端技术团队博客
+*   [wxlvip/Interviewer](https://github.com/wxlvip/Interviewer) -
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+*   [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+*   [AndreasEracleous/gatsby-blog-template](https://github.com/AndreasEracleous/gatsby-blog-template) - ✍️ A GatsbyJS Blog Template for blogging purposes.
+*   [ruanyf/jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
+*   [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
+*   [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
+*   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
+*   [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
+*   [safak/youtube2022](https://github.com/safak/youtube2022) - Season 2 on Lama Dev
+*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+*   [vv314/quotes](https://github.com/vv314/quotes) - 收集了一些每日一句的接口与网站。
+*   [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
+*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+*   [0voice/expert\_readed\_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
+*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
+*   [alim0x/Awesome-Linux-Software-zh\_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
+*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+*   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
+*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+## Clojure
+
+*   [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
+
+## Rust
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
+*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+*   [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<\<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## Svelte
 
@@ -509,7 +512,7 @@
 
 *   [casualwriter/vanilla-chatgpt](https://github.com/casualwriter/vanilla-chatgpt) - a minimal ChatGPT client by vanilla javascript, run from local or any static web host
 *   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [Souk21/TW-commandpalette](https://github.com/Souk21/TW-commandpalette) - A command palette for TiddlyWiki. Demo: https://souk21.github.io/TW-commandpalette/
 *   [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 *   [btheado/tiddlystow](https://github.com/btheado/tiddlystow) - stow TiddlyWiki files locally using the browser file system api
@@ -526,7 +529,6 @@
 *   [YieldRay/Random-Picture](https://github.com/YieldRay/Random-Picture) - 随机图片api
 *   [simonbaird/tiddlyhost](https://github.com/simonbaird/tiddlyhost) - Rails application for creating and hosting TiddlyWiki sites, plus resources for deploying it to https://tiddlyhost.com/
 *   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
 ## Objective-C
 
@@ -560,7 +562,7 @@
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
 *   [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 *   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
-*   [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
+*   [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 *   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
 *   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 *   [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
@@ -590,7 +592,6 @@
 *   [dragonman225/notablog-starter](https://github.com/dragonman225/notablog-starter) - The official starter project for Notablog.
 *   [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
-*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 
 ## Shell
 
@@ -628,7 +629,6 @@
 *   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
 *   [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) - LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua.
 *   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 
 ## Kotlin
 
@@ -736,7 +736,3 @@
 ## Perl
 
 *   [file-icons/icons](https://github.com/file-icons/icons) - Source files for the custom icon-font used by the File-Icons package.
-
-## Makefile
-
-*   [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
