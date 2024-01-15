@@ -5,17 +5,17 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [Go](#go)
 *   [JavaScript](#javascript)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
+*   [MDX](#mdx)
+*   [Go](#go)
+*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [Vala](#vala)
 *   [C#](#c)
 *   [Vue](#vue)
 *   [Python](#python)
-*   [MDX](#mdx)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [CSS](#css)
 *   [Kotlin](#kotlin)
@@ -40,9 +40,22 @@
 *   [Batchfile](#batchfile)
 *   [Emacs Lisp](#emacs-lisp)
 *   [RMarkdown](#rmarkdown)
+*   [Perl](#perl)
+*   [Makefile](#makefile)
+*   [SCSS](#scss)
 
 ## TypeScript
 
+*   [harttle/codemirror-lang-liquid](https://github.com/harttle/codemirror-lang-liquid) - Liquid language package for CodeMirror 6
+*   [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+*   [craftzdog/cm6-themes](https://github.com/craftzdog/cm6-themes) - Themes for CodeMirror 6
+*   [vadimdemedes/thememirror](https://github.com/vadimdemedes/thememirror) - 🦚 Beautiful themes for CodeMirror
+*   [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
+*   [KraXen72/obsidian-emoji-autocomplete](https://github.com/KraXen72/obsidian-emoji-autocomplete) - Emoji Shortcodes Autocomplete for Obsidian
+*   [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
+*   [acao/codemirror-json-schema](https://github.com/acao/codemirror-json-schema) - A JSONSchema enabled mode for codemirror 6, for json4 and json5, inspired by monaco-json
+*   [replit/codemirror-indentation-markers](https://github.com/replit/codemirror-indentation-markers) - A CodeMirror extension that renders indentation markers
+*   [replit/codemirror-vscode-keymap](https://github.com/replit/codemirror-vscode-keymap) - VSCode keyboard shortcuts for CodeMirror 6
 *   [saminzadeh/codemirror-extension-inline-suggestion](https://github.com/saminzadeh/codemirror-extension-inline-suggestion) - A CodeMirror extension to display inline suggestions
 *   [val-town/codemirror-ts](https://github.com/val-town/codemirror-ts) - lint, hover, and autocomplete extensions for CodeMirror + TypeScript
 *   [xinyao27/next-devtools](https://github.com/xinyao27/next-devtools) - Enhancement Next Developer Experience
@@ -57,14 +70,14 @@
 *   [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 *   [dishait/vite-plugin-vue-meta-layouts](https://github.com/dishait/vite-plugin-vue-meta-layouts) - vite 的 vue-router 的元信息布局系统 | Vite's Vue-Router's meta-information layout system
 *   [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
-*   [oeyoews/tiddlywiki-projects](https://github.com/oeyoews/tiddlywiki-projects) -  📄 打造更加成熟的tiddlywiki生态圈
+*   [oeyoews/tiddlywiki-projects](https://github.com/oeyoews/tiddlywiki-projects) -  📄 致力于打造更加成熟的 Tiddlywiki5 生态圈
 *   [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [oeyoews/react-music-api](https://github.com/oeyoews/react-music-api) -
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 *   [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next-gen file based typed routing for vue router
 *   [alovajs/alova](https://github.com/alovajs/alova) - Request strategy library for MVVM libraries such as Vue.js, React.js and Svelte.js
-*   [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
 *   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 *   [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 *   [zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese) - 中文文档@react-use
@@ -115,7 +128,6 @@
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 *   [oeyoews/reading-books-with-tiddlywiki](https://github.com/oeyoews/reading-books-with-tiddlywiki) -  📖 使用 tiddlywiki 构建的在线书籍阅读器
 *   [codemirror/theme-one-dark](https://github.com/codemirror/theme-one-dark) - One Dark theme for the CodeMirror code editor
-*   [oeyoews/tiddlywiki-codemirror6](https://github.com/oeyoews/tiddlywiki-codemirror6) - TiddlyWiki5's Codemirror6 Editor Plugin
 *   [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
 *   [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 *   [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
@@ -192,7 +204,6 @@
 *   [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 *   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 *   [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
-*   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 *   [intellism/vscode-comment-translate](https://github.com/intellism/vscode-comment-translate) - vscode 注释翻译插件, 不干扰正常代码，方便快速阅读源码。
 *   [FrDH/mmenu-js](https://github.com/FrDH/mmenu-js) - The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 *   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
@@ -268,18 +279,22 @@
 *   [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 *   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
-
-## Go
-
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [dianbanjiu/rss\_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
-*   [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+*   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+*   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+*   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
+*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
+*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+*   [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 
 ## JavaScript
 
+*   [oeyoews/tiddlywiki-starter-kit](https://github.com/oeyoews/tiddlywiki-starter-kit) - 📦 使用 TiddlyWiki5 搭建的本地优先笔记软件
+*   [marijnh/style-mod](https://github.com/marijnh/style-mod) -
+*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+*   [realdennis/md2pdf](https://github.com/realdennis/md2pdf) - Offline markdown to pdf, choose -> edit -> transform 🥂
+*   [chinchang/code-blast-codemirror](https://github.com/chinchang/code-blast-codemirror) - ✨Particles blasts while typing in Codemirror
 *   [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 *   [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 *   [A99US/CM6-Browser-Wrapper](https://github.com/A99US/CM6-Browser-Wrapper) - This is a CodeMirror 6 Wrapper for browser so you don't need to rollup a new one everytime you want to try different setting
@@ -303,7 +318,6 @@
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 *   [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 *   [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
-*   [oeyoews/tiddlywiki-starter-kit](https://github.com/oeyoews/tiddlywiki-starter-kit) - 📦 使用 TiddlyWiki5 搭建的本地优先笔记软件
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 *   [jsososo/QQMusicApi](https://github.com/jsososo/QQMusicApi) - 基于 Express + Axios 的 QQ音乐接口 nodejs 版
 *   [MoePlayer/react-aplayer](https://github.com/MoePlayer/react-aplayer) - :lollipop: A React wrapper component  of APlayer
@@ -328,6 +342,7 @@
 *   [TWPUB/TWPUB-Tools](https://github.com/TWPUB/TWPUB-Tools) - Tools for creating and viewing TWPUB files
 *   [julien-c/epub](https://github.com/julien-c/epub) - node.js epub reader
 *   [oeyoews/tiddlywiki-starter-kit-plugins](https://github.com/oeyoews/tiddlywiki-starter-kit-plugins) -
+*   [oeyoews/tiddlywiki-codemirror6](https://github.com/oeyoews/tiddlywiki-codemirror6) - Next TiddlyWiki5 Next Editor Plugin: Codemirror6
 *   [oeyoews/tiddlywiki-codemirror-6](https://github.com/oeyoews/tiddlywiki-codemirror-6) -
 *   [oeyoews/neotw-app](https://github.com/oeyoews/neotw-app) -
 *   [oeyoews/tiddlywiki-plugin-template](https://github.com/oeyoews/tiddlywiki-plugin-template) - tiddlywiki plugin template
@@ -389,6 +404,7 @@
 *   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 *   [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 *   [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
+*   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 *   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 *   [jaywcjlove/translater.js](https://github.com/jaywcjlove/translater.js) - ♣︎ This is a use of HTML comments page translation solution. For a small amount of static pages, this solution is more simple. it has no dependents, Compression only (4KB)
 *   [jmadler/emoji-picker](https://github.com/jmadler/emoji-picker) - Add a slick emoji selector to input fields and textareas on your website.
@@ -532,6 +548,79 @@
 *   [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 *   [wallleap/cdn](https://github.com/wallleap/cdn) - 图床
 *   [Agezao/confetti-js](https://github.com/Agezao/confetti-js) - Easily Generate random confetti for your above-the-fold content
+*   [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+*   [saqimtiaz/tw5-plugins-sandbox](https://github.com/saqimtiaz/tw5-plugins-sandbox) - Sandbox for experimental TW5 plugins with no support
+*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+*   [VincentCordobes/convert-snippets](https://github.com/VincentCordobes/convert-snippets) - UltiSnips ↔︎ VsCode (json) snippets converter
+*   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+*   [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
+*   [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
+*   [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课。等等我，还在努力...
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
+*   [ftavilla/semantic-release-gitlab-publish](https://github.com/ftavilla/semantic-release-gitlab-publish) - Semantic-release shareable configuration for easy publishing to a package registry, generate Gitlab release and CHANGELOG.md
+*   [npkgz/cli-progress](https://github.com/npkgz/cli-progress) -  :hourglass: easy to use progress-bar for command-line/terminal applications
+*   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+*   [denehyg/reveal.js-menu](https://github.com/denehyg/reveal.js-menu) - Slide out menu for reveal.js
+*   [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
+*   [oflg/fishing](https://github.com/oflg/fishing) - Integrate Spaced Repetition System into TiddlyWiki
+*   [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+
+## HTML
+
+*   [zhangaz1-pro/tiddlywikis-collection](https://github.com/zhangaz1-pro/tiddlywikis-collection) - tiddlywikis-collection
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+*   [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
+*   [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
+*   [oeyoews/tiddlywiki](https://github.com/oeyoews/tiddlywiki) - 🍓  (single files in browser)
+*   [oeyoews/create-tiddlywiki-app-on-browser](https://github.com/oeyoews/create-tiddlywiki-app-on-browser) -
+*   [Tokinx/ViewImage](https://github.com/Tokinx/ViewImage) - Gzip compressed to just 2K, small and superb raw JavaScript lightbox plugin
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+*   [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+*   [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) - Tabnine Client for Neovim
+*   [casualwriter/vanilla-chatgpt](https://github.com/casualwriter/vanilla-chatgpt) - a minimal ChatGPT client by vanilla javascript, run from local or any static web host
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+*   [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
+*   [btheado/tiddlystow](https://github.com/btheado/tiddlystow) - stow TiddlyWiki files locally using the browser file system api
+*   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+*   [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
+*   [christophery/pushy](https://github.com/christophery/pushy) - Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+*   [yavisht/deploy-via-surge.sh-github-action-template](https://github.com/yavisht/deploy-via-surge.sh-github-action-template) - A simple Github Actions template to deploy your static site using surge.sh
+*   [pubsubhubbub/PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - The PubSubHubbub protocol specification.
+*   [YieldRay/Random-Picture](https://github.com/YieldRay/Random-Picture) - 随机图片api
+*   [simonbaird/tiddlyhost](https://github.com/simonbaird/tiddlyhost) - Rails application for creating and hosting TiddlyWiki sites, plus resources for deploying it to https://tiddlyhost.com/
+*   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+*   [zkeq/zkeq](https://github.com/zkeq/zkeq) - 追星计划 源代码
+*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+*   [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+
+## MDX
+
+*   [andrebnassis/codemirror-readonly-ranges](https://github.com/andrebnassis/codemirror-readonly-ranges) - Codemirror extension for read-only ranges
+*   [oeyoews/nextra-blog-starter](https://github.com/oeyoews/nextra-blog-starter) -
+*   [hezizi/space](https://github.com/hezizi/space) - 基于Nextjs搭建，做记录📝的地方
+*   [giscafer/blog](https://github.com/giscafer/blog) - Next.js + Issues 博客解决方案 https://www.giscafer.com
+*   [Th1nhNg0/thinhcorner.com](https://github.com/Th1nhNg0/thinhcorner.com) - My personal website
+*   [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
+*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+*   [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效UI。
+
+## Go
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [dianbanjiu/rss\_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
+*   [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
+*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
+*   [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) - LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua.
+*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 
 ## miscellaneous
 
@@ -571,31 +660,19 @@
 *   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
 *   [eniqiz/Awesome-Linux-Software-zh\_CN](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 *   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
-
-## HTML
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-*   [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
-*   [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
-*   [oeyoews/tiddlywiki](https://github.com/oeyoews/tiddlywiki) - 🍓  (single files in browser)
-*   [oeyoews/create-tiddlywiki-app-on-browser](https://github.com/oeyoews/create-tiddlywiki-app-on-browser) -
-*   [Tokinx/ViewImage](https://github.com/Tokinx/ViewImage) - Gzip compressed to just 2K, small and superb raw JavaScript lightbox plugin
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-*   [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-*   [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) - Tabnine Client for Neovim
-*   [casualwriter/vanilla-chatgpt](https://github.com/casualwriter/vanilla-chatgpt) - a minimal ChatGPT client by vanilla javascript, run from local or any static web host
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-*   [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
-*   [btheado/tiddlystow](https://github.com/btheado/tiddlystow) - stow TiddlyWiki files locally using the browser file system api
-*   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-*   [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
-*   [christophery/pushy](https://github.com/christophery/pushy) - Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-*   [yavisht/deploy-via-surge.sh-github-action-template](https://github.com/yavisht/deploy-via-surge.sh-github-action-template) - A simple Github Actions template to deploy your static site using surge.sh
-*   [pubsubhubbub/PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - The PubSubHubbub protocol specification.
-*   [YieldRay/Random-Picture](https://github.com/YieldRay/Random-Picture) - 随机图片api
-*   [simonbaird/tiddlyhost](https://github.com/simonbaird/tiddlyhost) - Rails application for creating and hosting TiddlyWiki sites, plus resources for deploying it to https://tiddlyhost.com/
+*   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
+*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
+*   [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+*   [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
+*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+*   [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [sysuexam/SYSU-Exam](https://github.com/sysuexam/SYSU-Exam) - 收集整理SYSU期末考试卷子、资料
+*   [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
 
 ## Java
 
@@ -604,6 +681,7 @@
 *   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
 *   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 *   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 
 ## Rust
 
@@ -623,6 +701,7 @@
 ## C\#
 
 *   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
 ## Vue
 
@@ -667,23 +746,17 @@
 *   [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase.
 *   [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 *   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
 *   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 *   [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
 *   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 *   [kaedea/notion-up](https://github.com/kaedea/notion-up) - Use NotionUp (Notion Backup) + CircleCI to  backup your notion data nightly.｜自动备份 Notion 数据。｜Notion データのバックアップを自動化する
 *   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-
-## MDX
-
-*   [oeyoews/nextra-blog-starter](https://github.com/oeyoews/nextra-blog-starter) -
-*   [hezizi/space](https://github.com/hezizi/space) - 基于Nextjs搭建，做记录📝的地方
-*   [giscafer/blog](https://github.com/giscafer/blog) - Next.js + Issues 博客解决方案 https://www.giscafer.com
-*   [Th1nhNg0/thinhcorner.com](https://github.com/Th1nhNg0/thinhcorner.com) - My personal website
-*   [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
-*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
-*   [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效UI。
+*   [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
+*   [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+*   [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
 
 ## DIGITAL Command Language
 
@@ -703,6 +776,7 @@
 *   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
 *   [dragonman225/notablog-starter](https://github.com/dragonman225/notablog-starter) - The official starter project for Notablog.
 *   [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 
 ## Kotlin
 
@@ -759,6 +833,18 @@
 *   [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
 *   [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 *   [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
+*   [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
+*   [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
+*   [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+*   [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+*   [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
+*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
+*   [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
+*   [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
+*   [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+*   [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
+*   [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 
 ## C++
 
@@ -766,6 +852,9 @@
 *   [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 *   [Shadowsocks-NET/Qv2ray](https://github.com/Shadowsocks-NET/Qv2ray) - A cross platform connection manager for V2Ray and other backends.
 *   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+*   [mancuoj/408-ds](https://github.com/mancuoj/408-ds) - 408 数据结构历年代码真题详解，暴力解+最优解，含测试 🐟
+*   [Didnelpsun/CS408](https://github.com/Didnelpsun/CS408) - 考研计算机科学408笔记整理
+*   [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408) - 💯✍备考2021年研究生-408
 
 ## Clojure
 
@@ -781,6 +870,8 @@
 
 *   [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 *   [varlesh/oreo-cursors](https://github.com/varlesh/oreo-cursors) - oreo-cursors
+*   [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
+*   [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 
 ## PowerShell
 
@@ -794,6 +885,7 @@
 *   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 *   [YoujiaZhang/Navicat-Premium-15](https://github.com/YoujiaZhang/Navicat-Premium-15) - Navicat Premium 15 破解激活（亲测有效）如果经济允许，还是希望可以支持正版！！！windows10 & ubuntu
 *   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+*   [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
 
 ## Swift
 
@@ -804,6 +896,7 @@
 
 *   [joeytwiddle/sexy\_scroller.vim](https://github.com/joeytwiddle/sexy_scroller.vim) - smooth animation of the cursor and the page whenever they move, with easing
 *   [mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - A vim 7.4+ plugin to generate table of contents for Markdown files.
+*   [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
 
 ## EJS
 
@@ -819,6 +912,7 @@
 *   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 *   [soulteary/AvatarCache](https://github.com/soulteary/AvatarCache) - Your Own Avatar Api.
 *   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+*   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
 ## Scala
 
@@ -827,6 +921,7 @@
 ## VimL
 
 *   [findango/vim-mdx](https://github.com/findango/vim-mdx) - Vim syntax highlighting files for the MDX query language.
+*   [szw/vim-maximizer](https://github.com/szw/vim-maximizer) - Maximizes and restores the current window in Vim.
 
 ## TeX
 
@@ -835,6 +930,10 @@
 *   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
 *   [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) - Elegant LaTeX Template for Books
 *   [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
+*   [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
+*   [Azure1210/elegantbook-magic-revision](https://github.com/Azure1210/elegantbook-magic-revision) - Elegentbook魔改版本!
+*   [stone-zeng/latex-emoji](https://github.com/stone-zeng/latex-emoji) - Emoji support in (Lua)LaTeX
+*   [Didnelpsun/Math](https://github.com/Didnelpsun/Math) - 考研数学，数学一，包括高等数学、线性代数、概率统计
 
 ## Batchfile
 
@@ -844,7 +943,20 @@
 ## Emacs Lisp
 
 *   [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+*   [integral-dw/org-superstar-mode](https://github.com/integral-dw/org-superstar-mode) - Make org-mode stars a little more super
 
 ## RMarkdown
 
 *   [XiangyunHuang/ElegantBookdown](https://github.com/XiangyunHuang/ElegantBookdown) - :book:  A bookdown wrapper for ElegantBook
+
+## Perl
+
+*   [file-icons/icons](https://github.com/file-icons/icons) - Source files for the custom icon-font used by the File-Icons package.
+
+## Makefile
+
+*   [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+
+## SCSS
+
+*   [dsrkafuu/hugo-theme-fuji](https://github.com/dsrkafuu/hugo-theme-fuji) - A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
