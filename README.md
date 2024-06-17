@@ -129,7 +129,7 @@
 *   [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
 *   [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui) - daisyUI components built with React 🌼
 *   [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
-*   [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
+*   [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
 *   [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 *   [Albert-Gao/auto-zustand-selectors-hook](https://github.com/Albert-Gao/auto-zustand-selectors-hook) - Enjoy the performance gain of selectors without writing selectors in Zustand.
@@ -240,6 +240,7 @@
 *   [Th1nhNg0/old-thinhcorner](https://github.com/Th1nhNg0/old-thinhcorner) -
 *   [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 *   [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+*   [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 *   [AntmJS/antm](https://github.com/AntmJS/antm) - 前端工程应用工具集, 文档工具：https://antmjs.github.io/antm/antm-doc/#/introduce
 *   [AntmJS/temptaro](https://github.com/AntmJS/temptaro) - Taro应用模版，内置了一些比较常用及有价值的生态工具
 *   [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom) - 🪄 Enables Windi CSS for any site with one-line code without any build tools
@@ -451,7 +452,6 @@
 *   [kidjp85/react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component which allows Swiper's modules custom build
 *   [3DJakob/react-tinder-card](https://github.com/3DJakob/react-tinder-card) - A npm react module for making react elements swipeable like in the dating app tinder.
 *   [oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views) - A React component for swipeable views. :snowflake:
-*   [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 *   [Yill625/taro3-vue3-template](https://github.com/Yill625/taro3-vue3-template) - 一个基于 Taro3 和 Vue3 框架微信小程序模版。 核心技术采用Taro3、Vue3、TypeScript、NutUi、Vux4/Pinia、VueUse
 *   [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 *   [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
@@ -585,6 +585,7 @@
 *   [xiaoluoboding/vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - ⌨️ A fast, composable, unstyled command palette interface for Vue.
 *   [johndatserakis/vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) - 📌 Simple context-menu component built for Vue. Works well with both left and right clicks. Nothing too fancy, just works and is simple to use.
 *   [imengyu/vue3-context-menu](https://github.com/imengyu/vue3-context-menu) - A very simple context menu component for Vue3 一个简洁美观简单的Vue3右键菜单组件
+*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 *   [rafalolszewski94/vue3-smooth-scrollbar](https://github.com/rafalolszewski94/vue3-smooth-scrollbar) -
 *   [jackchen0120/vueDataV](https://github.com/jackchen0120/vueDataV) - 基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。
 *   [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
@@ -625,7 +626,6 @@
 
 *   [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 *   [oeyoews/tw5](https://github.com/oeyoews/tw5) - 📑 TiddlyWiki5 Fishing record english words. next template is https://github.com/oeyoews/neotw
-*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 *   [hwaphon/HTML5MusicPlayer](https://github.com/hwaphon/HTML5MusicPlayer) - 使用 HTML5 Audio 写的一个音乐播放器，还在完善中，希望小伙伴能提出自己宝贵的意见，谢谢！
 *   [primefaces/sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
 *   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
