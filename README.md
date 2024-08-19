@@ -48,7 +48,7 @@
 
 *   [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 *   [oeyoews/usewiki2](https://github.com/oeyoews/usewiki2) - TiddlyWiki5 的浏览器扩展助手
-*   [irsyadadl/justd](https://github.com/irsyadadl/justd) - Just D. is a chill set of React components, built on top of React Aria Components, all about keeping the web accessible. Easy to customize and just copy & paste into your React projects. Plus, it includes Tailwind CSS for sleek styling right out of the box.
+*   [justdlabs/justd](https://github.com/justdlabs/justd) - Just D. is a chill set of React components, built on top of React Aria Components, all about keeping the web accessible. Easy to customize and just copy & paste into your React projects. Plus, it includes Tailwind CSS for sleek styling right out of the box.
 *   [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 *   [nickap/vue-exit-intent](https://github.com/nickap/vue-exit-intent) - A helper to know when a user is about to leave your page.
 *   [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
@@ -188,7 +188,7 @@
 *   [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A \<QRCode/> component for use with React.
 *   [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 *   [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
-*   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
+*   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 *   [jeandv/my-next-portfolio](https://github.com/jeandv/my-next-portfolio) - 🔺My portfolio + Blog | Next.js 13, TypeScript, Tailwind and Sanity CMS🔺
 *   [youngle316/chatgpt-nextjs](https://github.com/youngle316/chatgpt-nextjs) - 像官方 ChatGPT 一样使用，再加入更强大的功能（Use as the official ChatGPT, with even more powerful features.）
 *   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
@@ -271,7 +271,7 @@
 *   [Jackardios/vscode-css-to-tailwindcss](https://github.com/Jackardios/vscode-css-to-tailwindcss) - CSS to TailwindCSS 3.x converter extension for Visual Studio Code
 *   [coolpace/V2EX\_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 *   [google/brotli](https://github.com/google/brotli) - Brotli compression format
-*   [antfu-collective/vitesse-nuxt3](https://github.com/antfu-collective/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
+*   [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
 *   [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
 *   [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus.
 *   [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
@@ -658,8 +658,8 @@
 ## Vue
 
 *   [pdsuwwz/vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) - 🐬 一个轻量级、开箱即用、快速开发 Vue3 (setup)  全家桶 + Vite 5 + i18n 国际化 + Element-Plus + UnoCSS + TypeScript + Vuex + Unplugin + ESLint (v9) + Vitest + Scss + StyleLint + Husky + lint-staged 中小型 B 端中后台管理系统的现代开发基础模板框架, 持续更新最新技术栈, 更贴近真实项目的脚手架 💪 A template admin built on Vite5 + Vitest + Vue 3 (附示例截图)
-*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
-*   [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue 2 & 3 full calendar, no dependency, no BS. :metal:
+*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
+*   [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue.js full calendar, no dependency, no BS. :metal:
 *   [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 *   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue.
 *   [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
