@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
-*   [Astro](#astro)
+*   [JavaScript](#javascript)
+*   [CSS](#css)
 *   [Python](#python)
 *   [PureBasic](#purebasic)
 *   [Shell](#shell)
@@ -16,13 +16,13 @@
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
-*   [CSS](#css)
 *   [Java](#java)
 *   [C#](#c)
 *   [MDX](#mdx)
 *   [Lua](#lua)
 *   [C](#c-1)
 *   [Dart](#dart)
+*   [Astro](#astro)
 *   [PHP](#php)
 *   [Swift](#swift)
 *   [Markdown](#markdown)
@@ -48,9 +48,357 @@
 *   [RMarkdown](#rmarkdown)
 *   [Perl](#perl)
 
+## TypeScript
+
+*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
+*   [oeyoews/neotw-tiddlers](https://github.com/oeyoews/neotw-tiddlers) - 由Tiddlywiki 记录的一些闪念笔记，主题笔记，词条笔记，项目笔记. 核心就是随心所记(持续更新）https://oeyoews.github.io/neotw-tiddlers
+*   [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+*   [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+*   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
+*   [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -> personal site generator
+*   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+*   [unplugin/unplugin-imagemin](https://github.com/unplugin/unplugin-imagemin) - 📦 Compression Image compression plugin based on squoosh-next
+*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+*   [TiddlyWiki/MultiWikiServer](https://github.com/TiddlyWiki/MultiWikiServer) - MultiWikiServer for TiddlyWiki
+*   [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
+*   [umbrella22/electron-vite-template](https://github.com/umbrella22/electron-vite-template) - This project is a vue3 + Vite + electron project template composed of Vite and rollup. It has the same functions as my previous electron+Vue+template project
+*   [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
+*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+*   [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+*   [oeyoews/tiddlywiki-markdown-importer-cli](https://github.com/oeyoews/tiddlywiki-markdown-importer-cli) - 📦 tiddlywiki importer/exporter with markdown
+*   [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+*   [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
+*   [yisibell/trickling](https://github.com/yisibell/trickling) - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening!
+*   [nathanbuchar/electron-settings](https://github.com/nathanbuchar/electron-settings) - 📝 A simple persistent user settings framework for Electron.
+*   [oeyoews/tiddlywiki-app](https://github.com/oeyoews/tiddlywiki-app) - Your next TiddlyWiki app offers a smoother TiddlyWiki experience (2025).
+*   [alex8088/electron-conf](https://github.com/alex8088/electron-conf) - Simple data persistence for your Electron app - save and load user settings, app state, cache, etc
+*   [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
+*   [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK.
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+*   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+*   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
+*   [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
+*   [Ocyss/boos-helper](https://github.com/Ocyss/boos-helper) - Boss直聘助手-优化UI去除广告,批量投递简历,高级筛选,GPT自动打招呼,多账号管理...
+*   [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
+*   [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
+*   [google-gemini/deprecated-generative-ai-js](https://github.com/google-gemini/deprecated-generative-ai-js) - This SDK is now deprecated, use the new unified Google GenAI SDK.
+*   [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
+*   [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
+*   [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
+*   [varletjs/api-farmer](https://github.com/varletjs/api-farmer) - API module generation tool based on Openapi3/Swagger2.
+*   [60late/vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic) - Based on sharp.js, compress your image before vite generate bundle. It's easy and fast! 基于sharp.js的vite图片压缩插件，又快又好用！
+*   [cameronking4/openai-realtime-blocks](https://github.com/cameronking4/openai-realtime-blocks) - Voice AI components using OpenAI Realtime API to copy and paste into your Nextjs projects built with TailwindCSS for building modern Voice AI application with WebRTC.
+*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+*   [bingo-js/bingo](https://github.com/bingo-js/bingo) - Delightful templates for web repositories. 💝
+*   [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
+*   [mianshipai/mianshipai-web](https://github.com/mianshipai/mianshipai-web) - 前端面试派
+*   [oeyoews/pngquant-api](https://github.com/oeyoews/pngquant-api) - 使用 Nextjs/Pngquant/Tailwindcss 搭建的在线PNG图片压缩(支持本地/vercel部署)
+*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+*   [uctakeoff/vscode-counter](https://github.com/uctakeoff/vscode-counter) - VS Code extension: counts blank lines, comment lines, and physical lines of source code in many programming languages.
+*   [wangeditor-next/wangEditor-next](https://github.com/wangeditor-next/wangEditor-next) - 基于 slate.js、支持 vue2、3、react、markdown、多人协同、易使用、可扩展的富文本编辑器
+*   [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+*   [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
+*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
+*   [tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
+*   [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
+*   [MoYuM/moyu-leap](https://github.com/MoYuM/moyu-leap) - 一些快捷指令
+*   [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
+*   [openapi-ui/openapi-ts-request](https://github.com/openapi-ui/openapi-ts-request) - Swagger2/OpenAPI3/Apifox to TS/JS, request client, mock service, enum, react-query, type field label, JSON Schemas;  根据 Swagger2/OpenAPI3/Apifox 生成 TypeScript/JavaScript, 客户端请求函数(支持任意客户端), 模拟请求响应服务, 枚举和枚举翻译, react-query, 类型的字段翻译, JSON Schemas定义, 欢迎提功能请求
+*   [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
+*   [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
+*   [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+*   [opensumi/core](https://github.com/opensumi/core) - A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.
+*   [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n) -
+*   [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave) - Visual Studio Code extension to run commands whenever a file is saved.
+*   [antfu/vscode-ext-gen](https://github.com/antfu/vscode-ext-gen) - Generate TypeScript meta info for VS Code extension from package.json
+*   [liutaigang/cross-end-call](https://github.com/liutaigang/cross-end-call) - A simple cross-end call library, which does not implement any protocol, can be used for inter-process capability calls
+*   [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
+*   [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
+*   [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
+*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
+*   [liutaigang/vscode-webview-extension-example](https://github.com/liutaigang/vscode-webview-extension-example) - Vscode 的 extension webview 开发示例，提供 Vue 和 React 实现，文档详细，举例丰富
+*   [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+*   [estruyf/vscode-react-webview-template](https://github.com/estruyf/vscode-react-webview-template) - A starter template for a Visual Studio Code extension with a webview using React
+*   [harveenatwal/vscode-publicdev](https://github.com/harveenatwal/vscode-publicdev) - A VS Code extension that uses AI to help developers effortlessly craft engaging social media posts about their code commits and project updates.
+*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+*   [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
+*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+*   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+*   [avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
+*   [binhtran432k/ungrammar-language-features](https://github.com/binhtran432k/ungrammar-language-features) - Language Features for Ungrammar
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+*   [takuma-ru/vue-swipe-modal](https://github.com/takuma-ru/vue-swipe-modal) - Modal window that can be swiped to close.（Swipeable Bottom Sheet）
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+*   [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
+*   [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
+*   [kermanx/reactive-vscode](https://github.com/kermanx/reactive-vscode) - Vue Reactivity for VSCode Extension API
+*   [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
+*   [oeyoews/usewiki2](https://github.com/oeyoews/usewiki2) - TiddlyWiki5 的浏览器扩展助手
+*   [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
+*   [nickap/vue-exit-intent](https://github.com/nickap/vue-exit-intent) - A helper to know when a user is about to leave your page.
+*   [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
+*   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+*   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+*   [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
+*   [oeyoews/dev-port-pages](https://github.com/oeyoews/dev-port-pages) - 打开端口页（仅个人临时使用， 暂无优化）
+*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
+*   [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
+*   [rocketclimb/rocketicons](https://github.com/rocketclimb/rocketicons) - React and React Native icons powered by Tailwind
+*   [williamtroup/JsonTree.js](https://github.com/williamtroup/JsonTree.js) - 🔗 A lightweight JavaScript library that generates customizable tree views to better visualize, and edit, JSON data.
+*   [mefengl/wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
+*   [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
+*   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
+*   [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
+*   [oeyoews/nest-learning](https://github.com/oeyoews/nest-learning) -
+*   [eleme/morjs](https://github.com/eleme/morjs) - 基于小程序 DSL（微信、支付宝）的，可扩展的多端研发框架，支持一键将微信或支付宝小程序转换为微信、支付宝、百度、字节、QQ、快手、淘宝、钉钉等小程序 或 Web 应用。
+*   [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs15 and shadcn ui
+*   [VisActor/VTable](https://github.com/VisActor/VTable) - VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
+*   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+*   [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
+*   [oeyoews/usewiki2-vscode](https://github.com/oeyoews/usewiki2-vscode) - TiddlyWiki AnyWhere
+*   [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
+*   [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+*   [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+*   [greywen/spark-node](https://github.com/greywen/spark-node) - 讯飞星火大模型非官方 Nodejs SDK Xunfei's 'Xinghuo' SparkDesk big model unofficial sdk for Nodejs
+*   [theajack/spark-node](https://github.com/theajack/spark-node) - 讯飞星火认知大模型 Nodejs SDK
+*   [mx-space/core](https://github.com/mx-space/core) - 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
+*   [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人站，使用 Next.js 构建
+*   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
+*   [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
+*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+*   [nolebase/integrations](https://github.com/nolebase/integrations) - ✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced \<mark> element, state-of-the-art SEO and \<meta> generation, og image, thumbhash & blurhash images and more!
+*   [val-town/codemirror-codeium](https://github.com/val-town/codemirror-codeium) - Codeium code completion integration for CodeMirror 6
+*   [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+*   [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 Vite & uni-app 驱动的跨端快速启动模板
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+*   [groq/groq-typescript](https://github.com/groq/groq-typescript) - The official Node.js / Typescript library for the Groq API
+*   [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+*   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
+*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+*   [CyberNika/v-contextmenu](https://github.com/CyberNika/v-contextmenu) - 🖱 ContextMenu based on Vue 3 & Vue 2
+*   [draJiang/flomo2md](https://github.com/draJiang/flomo2md) - 将 flomo 笔记导出为 Markdown 格式
+*   [t128n/jsoncanvas](https://github.com/t128n/jsoncanvas) - 📝 JSONCanvas Implementation for TypeScript
+*   [gvvim/obsidian-pomodoro-widget](https://github.com/gvvim/obsidian-pomodoro-widget) - A plugin for ObsidianMD that adds a pomodoro timer widget. Get it from the Community plugins tab.
+*   [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
+*   [smastrom/notivue](https://github.com/smastrom/notivue) - 🔔 Powerful toast notification system for Vue and Nuxt.
+*   [mostafazke/ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - angular whiteboard component
+*   [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify) - 🎉 Vue3-Toastify allows you to add notifications to your app with ease.
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+*   [sjwall/mdx-mermaid](https://github.com/sjwall/mdx-mermaid) - Plug and play Mermaid in MDX
+*   [dongrentianyu/a-tiddlywiki-odyssey](https://github.com/dongrentianyu/a-tiddlywiki-odyssey) - 太微漫游
+*   [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
+*   [gin-melodic/luma-fluid-lib](https://github.com/gin-melodic/luma-fluid-lib) - A library for creating fluid animations like Luma website.
+*   [inspirnathan/codemirror-lang-mermaid](https://github.com/inspirnathan/codemirror-lang-mermaid) - Mermaid language support for CodeMirror 6
+*   [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
+*   [udecode/zustand-x](https://github.com/udecode/zustand-x) - Zustand store factory for a best-in-class developer experience.
+*   [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
+*   [tsejx/javascript-guidebook](https://github.com/tsejx/javascript-guidebook) - :books:JavaScript 前端知识图谱 A guidebook for the convenience of the front-end developers
+*   [harttle/codemirror-lang-liquid](https://github.com/harttle/codemirror-lang-liquid) - Liquid language package for CodeMirror 6
+*   [craftzdog/cm6-themes](https://github.com/craftzdog/cm6-themes) - Themes for CodeMirror 6
+*   [vadimdemedes/thememirror](https://github.com/vadimdemedes/thememirror) - 🦚 Beautiful themes for CodeMirror
+*   [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
+*   [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
+*   [jsonnext/codemirror-json-schema](https://github.com/jsonnext/codemirror-json-schema) - A JSONSchema enabled mode for codemirror 6, for json4 and json5, inspired by monaco-json
+*   [replit/codemirror-indentation-markers](https://github.com/replit/codemirror-indentation-markers) - A CodeMirror extension that renders indentation markers
+*   [replit/codemirror-vscode-keymap](https://github.com/replit/codemirror-vscode-keymap) - VSCode keyboard shortcuts for CodeMirror 6
+*   [saminzadeh/codemirror-extension-inline-suggestion](https://github.com/saminzadeh/codemirror-extension-inline-suggestion) - A CodeMirror extension to display inline suggestions
+*   [val-town/codemirror-ts](https://github.com/val-town/codemirror-ts) - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript
+*   [xinyao27/next-devtools](https://github.com/xinyao27/next-devtools) - Enhancement Next Developer Experience
+*   [dc7290/next-export-optimize-images](https://github.com/dc7290/next-export-optimize-images) - Optimize images at build time with Next.js.
+*   [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+*   [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
+*   [un-ts/deeplx](https://github.com/un-ts/deeplx) - An unofficial but powerful and easy-to-use yet free DeepL API client for Node.js using [DeepL](https://www.deepl.com) by porting [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX).
+*   [uxiew/epub2MD](https://github.com/uxiew/epub2MD) - convert epub file to markdown files
+*   [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
+*   [oeyoews/packages-template](https://github.com/oeyoews/packages-template) - 一个使用 tsup + typescript 搭建 npm package 模板
+*   [dishait/vite-plugin-vue-meta-layouts](https://github.com/dishait/vite-plugin-vue-meta-layouts) - vite 的 vue-router 的元信息布局系统 | Vite's Vue-Router's meta-information layout system
+*   [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
+*   [oeyoews/tiddlywiki-projects](https://github.com/oeyoews/tiddlywiki-projects) -  📄 致力于打造更加成熟的 Tiddlywiki5 生态圈
+*   [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
+*   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
+*   [oeyoews/react-music-api](https://github.com/oeyoews/react-music-api) -
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+*   [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router
+*   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
+*   [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
+*   [zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese) - 中文文档@react-use
+*   [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
+*   [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui) - daisyUI components built with React 🌼
+*   [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
+*   [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
+*   [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
+*   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
+*   [Albert-Gao/auto-zustand-selectors-hook](https://github.com/Albert-Gao/auto-zustand-selectors-hook) - Enjoy the performance gain of selectors without writing selectors in Zustand.
+*   [ThaddeusJiang/AIer](https://github.com/ThaddeusJiang/AIer) - Train AI with your own data, for PKM, Second Brain and etc.
+*   [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
+*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+*   [egoist/ts-lib-starter](https://github.com/egoist/ts-lib-starter) - My minimal TypeScript library starter
+*   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+*   [thecuvii/devfools](https://github.com/thecuvii/devfools) - Trick your devtools 🤡.
+*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+*   [mhnpd/react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection sets of a spinners for async operations for ReactJS
+*   [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
+*   [oeyoews/react-music](https://github.com/oeyoews/react-music) - 🎶 使用 NextJS14 构建的在线音乐播放器
+*   [leerob/next-email-client](https://github.com/leerob/next-email-client) - An email client built with the Next.js App Router and Postgres.
+*   [imzbf/md-editor-rt](https://github.com/imzbf/md-editor-rt) - Markdown editor for react, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
+*   [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
+*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+*   [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+*   [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
+*   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
+*   [koka831/remark-custom-container](https://github.com/koka831/remark-custom-container) - remark parser plugin for custom directive in markdown
+*   [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - \<textarea /> component for React which grows with content
+*   [tiddlywiki-starter-kit/usewiki](https://github.com/tiddlywiki-starter-kit/usewiki) - 📦Browser Extension: Record Thoughts With TiddlyWik.  | Please use https://github.com/oeyoews/usewiki2
+*   [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples) - 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
+*   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+*   [hua1995116/react-resume-site](https://github.com/hua1995116/react-resume-site) - 木及简历，一款markdown的在线简历工具。 https://www.mujicv.com
+*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+*   [unjs/get-port-please](https://github.com/unjs/get-port-please) - 🔌 Get an available open port
+*   [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
+*   [oeyoews/oeyoews.me](https://github.com/oeyoews/oeyoews.me) - 📝 支持多种数据源的 Blog, 使用 Nextjs14 构建
+*   [oeyoews/reading-books-with-tiddlywiki](https://github.com/oeyoews/reading-books-with-tiddlywiki) -  📖 使用 tiddlywiki 构建的在线书籍阅读器
+*   [codemirror/theme-one-dark](https://github.com/codemirror/theme-one-dark) - One Dark theme for the CodeMirror code editor
+*   [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
+*   [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
+*   [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
+*   [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
+*   [reactjs/zh-hans.react.dev](https://github.com/reactjs/zh-hans.react.dev) - React documentation website in Simplified Chinese
+*   [zhixingxiaoke/react-hands-on-tutorial-for-beginners](https://github.com/zhixingxiaoke/react-hands-on-tutorial-for-beginners) - 知行小课《React 入门实战教程》课程源码
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+*   [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
+*   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
+*   [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A \<QRCode/> component for use with React.
+*   [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
+*   [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
+*   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
+*   [jeandv/my-next-portfolio](https://github.com/jeandv/my-next-portfolio) - My portfolio + Blog | Next.js, TypeScript, Tailwind and Sanity CMS
+*   [youngle316/chatgpt-nextjs](https://github.com/youngle316/chatgpt-nextjs) - 像官方 ChatGPT 一样使用，再加入更强大的功能（Use as the official ChatGPT, with even more powerful features.）
+*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+*   [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
+*   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
+*   [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
+*   [uniquemo/react-netease-music](https://github.com/uniquemo/react-netease-music) - React Netease Music——一个基于React、TypeScript的高仿网易云mac客户端🎵播放器。
+*   [beeinger/next-mdx-blog](https://github.com/beeinger/next-mdx-blog) - Next.js 13 app directory MDX blog template, unstyled, with tailwindcss, automatic article resolving, reading time estimation, etc.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
+*   [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
+*   [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
+*   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+*   [fernandopasik/react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for ⚛️  React.Children data structure that adds recursive filter, map and more methods to iterate nested children.
+*   [gitdagray/next-js-course](https://github.com/gitdagray/next-js-course) -
+*   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+*   [deardings/nextjs-with-tiddlywiki](https://github.com/deardings/nextjs-with-tiddlywiki) - A Next.js App using TiddlyWiki as a CMS
+*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
+*   [contentlayerdev/next-contentlayer-example](https://github.com/contentlayerdev/next-contentlayer-example) -
+*   [pixegami/nextjs-blog-tutorial](https://github.com/pixegami/nextjs-blog-tutorial) - Tutorial Project for a NextJS 13 Static Blog with TailwindCSS Styling
+*   [mirsazzathossain/mirsazzathossain.me](https://github.com/mirsazzathossain/mirsazzathossain.me) - This is the ✨ source code for my personal website, built with Next.js, Tailwind CSS, Contentlayer, and 🚀 deployed on Vercel 🔼. You can use this repository as a template to build your own personal website. 😊
+*   [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
+*   [kfirfitousi/mdx-nextjs-13](https://github.com/kfirfitousi/mdx-nextjs-13) - Proof-of-Concept for rendering MDX files using Next.js 13 and next-mdx-remote
+*   [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
+*   [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
+*   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
+*   [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
+*   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
+*   [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+*   [hqasmei/nextjs13.2-blog](https://github.com/hqasmei/nextjs13.2-blog) - This is a Next.js 13.2, Tailwind CSS and Prisma blogging starter template.
+*   [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
+*   [zolplay-cn/website](https://github.com/zolplay-cn/website) - Zolplay website repo // 佐玩官网
+*   [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
+*   [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+*   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+*   [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
+*   [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
+*   [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
+*   [executablebooks/markdown-it-docutils](https://github.com/executablebooks/markdown-it-docutils) - A markdown-it plugin for implementing docutils style roles/directives.
+*   [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
+*   [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+*   [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
+*   [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress
+*   [AprilNEA/AdminChat](https://github.com/AprilNEA/AdminChat) - One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统
+*   [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
+*   [AIOS-club/aios.chat](https://github.com/AIOS-club/aios.chat) - 一套基于React + Vite + Express的ChatGPT新ui聊天界面，支持gpt4
+*   [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
+*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
+*   [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
+*   [intellism/vscode-comment-translate](https://github.com/intellism/vscode-comment-translate) - vscode 注释翻译插件, 不干扰正常代码，方便快速阅读源码。
+*   [FrDH/mmenu-js](https://github.com/FrDH/mmenu-js) - The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
+*   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
+*   [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
+*   [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+*   [Th1nhNg0/old-thinhcorner](https://github.com/Th1nhNg0/old-thinhcorner) -
+*   [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
+*   [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+*   [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
+*   [AntmJS/antm](https://github.com/AntmJS/antm) - 前端工程应用工具集, 文档工具：https://antmjs.github.io/antm/antm-doc/#/introduce
+*   [AntmJS/temptaro](https://github.com/AntmJS/temptaro) - Taro应用模版，内置了一些比较常用及有价值的生态工具
+*   [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom) - 🪄 Enables Windi CSS for any site with one-line code without any build tools
+*   [dcasia/mini-program-tailwind](https://github.com/dcasia/mini-program-tailwind) - 让你的小程序用上原汁原味的 Tailwind/Windi CSS
+*   [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
+*   [lsqy/taro-music](https://github.com/lsqy/taro-music) - 🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）
+*   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
+*   [teodosii/react-notifications-component](https://github.com/teodosii/react-notifications-component) - Delightful and highly customisable React Component to notify your users
+*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+*   [zhpd/chatgpt-plus](https://github.com/zhpd/chatgpt-plus) - 🚀 Open source free ChatGPT App (Web, Mac, Windows and Linux).  免费开源的ChatGPT应用程序.
+*   [osmium-blog/osmium](https://github.com/osmium-blog/osmium) - A static site builder. Powered by Notion and Next.js
+*   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+*   [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
+*   [KiritoCheng/openai-server](https://github.com/KiritoCheng/openai-server) -
+*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+*   [noahlange/tiddlymark](https://github.com/noahlange/tiddlymark) - Plugins and tasks for TiddlyWiki to improve Markdown support.
+*   [Jackardios/vscode-css-to-tailwindcss](https://github.com/Jackardios/vscode-css-to-tailwindcss) - CSS to TailwindCSS 3.x converter extension for Visual Studio Code
+*   [coolpace/V2EX\_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+*   [google/brotli](https://github.com/google/brotli) - Brotli compression format
+*   [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
+*   [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
+*   [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus.
+*   [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
+*   [egoist/openai-proxy](https://github.com/egoist/openai-proxy) - OpenAI proxy on Cloudflare Worker / Vercel Edge
+*   [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
+*   [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
+*   [nishanths/zoom.js](https://github.com/nishanths/zoom.js) - Fork of fat/zoom.js with improvements
+*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+*   [alamorre/pretty-chat-react-typescript](https://github.com/alamorre/pretty-chat-react-typescript) -
+*   [gmpetrov/openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - 🤖 Use ChatGPT from the terminal
+*   [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
+*   [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter) - Notion-powered blog starter with @vercel and @tailwindcss
+*   [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
+*   [d2FuZ3h1ZG9uZw/hitokoto](https://github.com/d2FuZ3h1ZG9uZw/hitokoto) - Beautiful browser new tab
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
+*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+*   [charkour/react-reactions](https://github.com/charkour/react-reactions) - 😲   Create custom reaction pickers and counters or use your favorites!
+*   [Tecvan-fe/vscode-lsp-sample](https://github.com/Tecvan-fe/vscode-lsp-sample) -
+*   [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
+*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
+*   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
+*   [transitive-bullshit/kwote](https://github.com/transitive-bullshit/kwote) - Create beautiful quotes that capture your attention.
+*   [tiddly-gittly/Modern.TiddlyDev](https://github.com/tiddly-gittly/Modern.TiddlyDev) - Modern TiddlyWiki Developing Environment
+*   [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
+*   [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
+*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+*   [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
+*   [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
+*   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
+
 ## JavaScript
 
-*   [oeyoews/tiddlywiki-publish](https://github.com/oeyoews/tiddlywiki-publish) -
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+*   [minimistjs/minimist](https://github.com/minimistjs/minimist) - parse argument options
+*   [oeyoews/tiddlywiki-publish](https://github.com/oeyoews/tiddlywiki-publish) - TiddlyWiki Publish Actions 🛠️
 *   [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 *   [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 *   [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - Notes on how to build side projects
@@ -367,356 +715,23 @@
 *   [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
 *   [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
 
-## TypeScript
-
-*   [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-*   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
-*   [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -> personal site generator
-*   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
-*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-*   [unplugin/unplugin-imagemin](https://github.com/unplugin/unplugin-imagemin) - 📦 Compression Image compression plugin based on squoosh-next
-*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
-*   [TiddlyWiki/MultiWikiServer](https://github.com/TiddlyWiki/MultiWikiServer) - MultiWikiServer for TiddlyWiki
-*   [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
-*   [umbrella22/electron-vite-template](https://github.com/umbrella22/electron-vite-template) - This project is a vue3 + Vite + electron project template composed of Vite and rollup. It has the same functions as my previous electron+Vue+template project
-*   [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
-*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-*   [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-*   [oeyoews/tiddlywiki-markdown-importer-cli](https://github.com/oeyoews/tiddlywiki-markdown-importer-cli) - 📦 tiddlywiki importer/exporter with markdown
-*   [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
-*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-*   [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
-*   [yisibell/trickling](https://github.com/yisibell/trickling) - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening!
-*   [nathanbuchar/electron-settings](https://github.com/nathanbuchar/electron-settings) - 📝 A simple persistent user settings framework for Electron.
-*   [oeyoews/tiddlywiki-app](https://github.com/oeyoews/tiddlywiki-app) - Your next TiddlyWiki app offers a smoother TiddlyWiki experience (2025).
-*   [alex8088/electron-conf](https://github.com/alex8088/electron-conf) - Simple data persistence for your Electron app - save and load user settings, app state, cache, etc
-*   [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
-*   [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK for Browser, Node.js, Deno, Bun or Edge Runtime.
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
-*   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-*   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
-*   [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
-*   [Ocyss/boos-helper](https://github.com/Ocyss/boos-helper) - Boss直聘助手-优化UI去除广告,批量投递简历,高级筛选,GPT自动打招呼,多账号管理...
-*   [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
-*   [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
-*   [google-gemini/deprecated-generative-ai-js](https://github.com/google-gemini/deprecated-generative-ai-js) - This SDK is now deprecated, use the new unified Google GenAI SDK.
-*   [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
-*   [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
-*   [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
-*   [varletjs/api-farmer](https://github.com/varletjs/api-farmer) - API module generation tool based on Openapi3/Swagger2.
-*   [60late/vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic) - Based on sharp.js, compress your image before vite generate bundle. It's easy and fast! 基于sharp.js的vite图片压缩插件，又快又好用！
-*   [cameronking4/openai-realtime-blocks](https://github.com/cameronking4/openai-realtime-blocks) - Voice AI components using OpenAI Realtime API to copy and paste into your Nextjs projects built with TailwindCSS for building modern Voice AI application with WebRTC.
-*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-*   [JoshuaKGoldberg/bingo](https://github.com/JoshuaKGoldberg/bingo) - Delightful templates for web repositories. 💝
-*   [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
-*   [mianshipai/mianshipai-web](https://github.com/mianshipai/mianshipai-web) - 前端面试派
-*   [oeyoews/pngquant-api](https://github.com/oeyoews/pngquant-api) - 使用 Nextjs/Pngquant/Tailwindcss 搭建的在线PNG图片压缩(支持本地/vercel部署)
-*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
-*   [uctakeoff/vscode-counter](https://github.com/uctakeoff/vscode-counter) - VS Code extension: counts blank lines, comment lines, and physical lines of source code in many programming languages.
-*   [wangeditor-next/wangEditor-next](https://github.com/wangeditor-next/wangEditor-next) - 基于 slate.js、支持 vue2、3、react、markdown、多人协同、易使用、可扩展的富文本编辑器
-*   [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-*   [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
-*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
-*   [tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
-*   [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
-*   [MoYuM/moyu-leap](https://github.com/MoYuM/moyu-leap) - 一些快捷指令
-*   [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
-*   [openapi-ui/openapi-ts-request](https://github.com/openapi-ui/openapi-ts-request) - Swagger2/OpenAPI3/Apifox to TS/JS, request client, mock service, enum, react-query, type field label, JSON Schemas;  根据 Swagger2/OpenAPI3/Apifox 生成 TypeScript/JavaScript, 客户端请求函数(支持任意客户端), 模拟请求响应服务, 枚举和枚举翻译, react-query, 类型的字段翻译, JSON Schemas定义, 欢迎提功能请求
-*   [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
-*   [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
-*   [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-*   [opensumi/core](https://github.com/opensumi/core) - A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.
-*   [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n) -
-*   [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave) - Visual Studio Code extension to run commands whenever a file is saved.
-*   [antfu/vscode-ext-gen](https://github.com/antfu/vscode-ext-gen) - Generate TypeScript meta info for VS Code extension from package.json
-*   [liutaigang/cross-end-call](https://github.com/liutaigang/cross-end-call) - A simple cross-end call library, which does not implement any protocol, can be used for inter-process capability calls
-*   [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
-*   [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
-*   [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
-*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
-*   [liutaigang/vscode-webview-extension-example](https://github.com/liutaigang/vscode-webview-extension-example) - Vscode 的 extension webview 开发示例，提供 Vue 和 React 实现，文档详细，举例丰富
-*   [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
-*   [estruyf/vscode-react-webview-template](https://github.com/estruyf/vscode-react-webview-template) - A starter template for a Visual Studio Code extension with a webview using React
-*   [harveenatwal/vscode-publicdev](https://github.com/harveenatwal/vscode-publicdev) - A VS Code extension that uses AI to help developers effortlessly craft engaging social media posts about their code commits and project updates.
-*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
-*   [xenova/whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
-*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-*   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-*   [avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
-*   [binhtran432k/ungrammar-language-features](https://github.com/binhtran432k/ungrammar-language-features) - Language Features for Ungrammar
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
-*   [takuma-ru/vue-swipe-modal](https://github.com/takuma-ru/vue-swipe-modal) - Modal window that can be swiped to close.（Swipeable Bottom Sheet）
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-*   [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
-*   [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
-*   [kermanx/reactive-vscode](https://github.com/kermanx/reactive-vscode) - Vue Reactivity for VSCode Extension API
-*   [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
-*   [oeyoews/usewiki2](https://github.com/oeyoews/usewiki2) - TiddlyWiki5 的浏览器扩展助手
-*   [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
-*   [nickap/vue-exit-intent](https://github.com/nickap/vue-exit-intent) - A helper to know when a user is about to leave your page.
-*   [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
-*   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-*   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-*   [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
-*   [oeyoews/dev-port-pages](https://github.com/oeyoews/dev-port-pages) - 打开端口页（仅个人临时使用， 暂无优化）
-*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-*   [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
-*   [rocketclimb/rocketicons](https://github.com/rocketclimb/rocketicons) - React and React Native icons powered by Tailwind
-*   [williamtroup/JsonTree.js](https://github.com/williamtroup/JsonTree.js) - 🔗 A lightweight JavaScript library that generates customizable tree views to better visualize, and edit, JSON data.
-*   [mefengl/wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
-*   [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
-*   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
-*   [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
-*   [oeyoews/nest-learning](https://github.com/oeyoews/nest-learning) -
-*   [eleme/morjs](https://github.com/eleme/morjs) - 基于小程序 DSL（微信、支付宝）的，可扩展的多端研发框架，支持一键将微信或支付宝小程序转换为微信、支付宝、百度、字节、QQ、快手、淘宝、钉钉等小程序 或 Web 应用。
-*   [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs15 and shadcn ui
-*   [VisActor/VTable](https://github.com/VisActor/VTable) - VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
-*   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-*   [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
-*   [oeyoews/usewiki2-vscode](https://github.com/oeyoews/usewiki2-vscode) - TiddlyWiki AnyWhere
-*   [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
-*   [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
-*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
-*   [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-*   [greywen/spark-node](https://github.com/greywen/spark-node) - 讯飞星火大模型非官方 Nodejs SDK Xunfei's 'Xinghuo' SparkDesk big model unofficial sdk for Nodejs
-*   [theajack/spark-node](https://github.com/theajack/spark-node) - 讯飞星火认知大模型 Nodejs SDK
-*   [mx-space/core](https://github.com/mx-space/core) - 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
-*   [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人站，使用 Next.js 构建
-*   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-*   [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
-*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
-*   [nolebase/integrations](https://github.com/nolebase/integrations) - ✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced \<mark> element, state-of-the-art SEO and \<meta> generation, og image, thumbhash & blurhash images and more!
-*   [val-town/codemirror-codeium](https://github.com/val-town/codemirror-codeium) - Codeium code completion integration for CodeMirror 6
-*   [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
-*   [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 Vite & uni-app 驱动的跨端快速启动模板
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-*   [groq/groq-typescript](https://github.com/groq/groq-typescript) - The official Node.js / Typescript library for the Groq API
-*   [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-*   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-*   [CyberNika/v-contextmenu](https://github.com/CyberNika/v-contextmenu) - 🖱 ContextMenu based on Vue 3 & Vue 2
-*   [draJiang/flomo2md](https://github.com/draJiang/flomo2md) - 将 flomo 笔记导出为 Markdown 格式
-*   [t128n/jsoncanvas](https://github.com/t128n/jsoncanvas) - 📝 JSONCanvas Implementation for TypeScript
-*   [gvvim/obsidian-pomodoro-widget](https://github.com/gvvim/obsidian-pomodoro-widget) - A plugin for ObsidianMD that adds a pomodoro timer widget. Get it from the Community plugins tab.
-*   [olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) - Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode.
-*   [smastrom/notivue](https://github.com/smastrom/notivue) - 🔔 Powerful toast notification system for Vue and Nuxt.
-*   [mostafazke/ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - angular whiteboard component
-*   [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify) - 🎉 Vue3-Toastify allows you to add notifications to your app with ease.
-*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-*   [sjwall/mdx-mermaid](https://github.com/sjwall/mdx-mermaid) - Plug and play Mermaid in MDX
-*   [dongrentianyu/a-tiddlywiki-odyssey](https://github.com/dongrentianyu/a-tiddlywiki-odyssey) - 太微漫游
-*   [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
-*   [gin-melodic/luma-fluid-lib](https://github.com/gin-melodic/luma-fluid-lib) - A library for creating fluid animations like Luma website.
-*   [inspirnathan/codemirror-lang-mermaid](https://github.com/inspirnathan/codemirror-lang-mermaid) - Mermaid language support for CodeMirror 6
-*   [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
-*   [udecode/zustand-x](https://github.com/udecode/zustand-x) - Zustand store factory for a best-in-class developer experience.
-*   [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-*   [tsejx/javascript-guidebook](https://github.com/tsejx/javascript-guidebook) - :books:JavaScript 前端知识图谱 A guidebook for the convenience of the front-end developers
-*   [harttle/codemirror-lang-liquid](https://github.com/harttle/codemirror-lang-liquid) - Liquid language package for CodeMirror 6
-*   [craftzdog/cm6-themes](https://github.com/craftzdog/cm6-themes) - Themes for CodeMirror 6
-*   [vadimdemedes/thememirror](https://github.com/vadimdemedes/thememirror) - 🦚 Beautiful themes for CodeMirror
-*   [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
-*   [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
-*   [jsonnext/codemirror-json-schema](https://github.com/jsonnext/codemirror-json-schema) - A JSONSchema enabled mode for codemirror 6, for json4 and json5, inspired by monaco-json
-*   [replit/codemirror-indentation-markers](https://github.com/replit/codemirror-indentation-markers) - A CodeMirror extension that renders indentation markers
-*   [replit/codemirror-vscode-keymap](https://github.com/replit/codemirror-vscode-keymap) - VSCode keyboard shortcuts for CodeMirror 6
-*   [saminzadeh/codemirror-extension-inline-suggestion](https://github.com/saminzadeh/codemirror-extension-inline-suggestion) - A CodeMirror extension to display inline suggestions
-*   [val-town/codemirror-ts](https://github.com/val-town/codemirror-ts) - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript
-*   [xinyao27/next-devtools](https://github.com/xinyao27/next-devtools) - Enhancement Next Developer Experience
-*   [dc7290/next-export-optimize-images](https://github.com/dc7290/next-export-optimize-images) - Optimize images at build time with Next.js.
-*   [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-*   [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
-*   [un-ts/deeplx](https://github.com/un-ts/deeplx) - An unofficial but powerful and easy-to-use yet free DeepL API client for Node.js using [DeepL](https://www.deepl.com) by porting [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX).
-*   [uxiew/epub2MD](https://github.com/uxiew/epub2MD) - convert epub file to markdown files
-*   [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
-*   [oeyoews/packages-template](https://github.com/oeyoews/packages-template) - 一个使用 tsup + typescript 搭建 npm package 模板
-*   [dishait/vite-plugin-vue-meta-layouts](https://github.com/dishait/vite-plugin-vue-meta-layouts) - vite 的 vue-router 的元信息布局系统 | Vite's Vue-Router's meta-information layout system
-*   [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
-*   [oeyoews/tiddlywiki-projects](https://github.com/oeyoews/tiddlywiki-projects) -  📄 致力于打造更加成熟的 Tiddlywiki5 生态圈
-*   [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
-*   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
-*   [oeyoews/react-music-api](https://github.com/oeyoews/react-music-api) -
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
-*   [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router
-*   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
-*   [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
-*   [zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese) - 中文文档@react-use
-*   [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
-*   [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui) - daisyUI components built with React 🌼
-*   [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
-*   [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
-*   [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
-*   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
-*   [Albert-Gao/auto-zustand-selectors-hook](https://github.com/Albert-Gao/auto-zustand-selectors-hook) - Enjoy the performance gain of selectors without writing selectors in Zustand.
-*   [ThaddeusJiang/AIer](https://github.com/ThaddeusJiang/AIer) - Train AI with your own data, for PKM, Second Brain and etc.
-*   [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
-*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
-*   [egoist/ts-lib-starter](https://github.com/egoist/ts-lib-starter) - My minimal TypeScript library starter
-*   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-*   [thecuvii/devfools](https://github.com/thecuvii/devfools) - Trick your devtools 🤡.
-*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-*   [mhnpd/react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection sets of a spinners for async operations for ReactJS
-*   [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
-*   [oeyoews/react-music](https://github.com/oeyoews/react-music) - 🎶 使用 NextJS14 构建的在线音乐播放器
-*   [leerob/next-email-client](https://github.com/leerob/next-email-client) - An email client built with the Next.js App Router and Postgres.
-*   [imzbf/md-editor-rt](https://github.com/imzbf/md-editor-rt) - Markdown editor for react, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
-*   [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
-*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-*   [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
-*   [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
-*   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
-*   [koka831/remark-custom-container](https://github.com/koka831/remark-custom-container) - remark parser plugin for custom directive in markdown
-*   [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - \<textarea /> component for React which grows with content
-*   [tiddlywiki-starter-kit/usewiki](https://github.com/tiddlywiki-starter-kit/usewiki) - 📦Browser Extension: Record Thoughts With TiddlyWik.  | Please use https://github.com/oeyoews/usewiki2
-*   [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples) - 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-*   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-*   [hua1995116/react-resume-site](https://github.com/hua1995116/react-resume-site) - 木及简历，一款markdown的在线简历工具。 https://www.mujicv.com
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-*   [unjs/get-port-please](https://github.com/unjs/get-port-please) - 🔌 Get an available open port
-*   [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
-*   [oeyoews/oeyoews.me](https://github.com/oeyoews/oeyoews.me) - 📝 支持多种数据源的 Blog, 使用 Nextjs14 构建
-*   [oeyoews/reading-books-with-tiddlywiki](https://github.com/oeyoews/reading-books-with-tiddlywiki) -  📖 使用 tiddlywiki 构建的在线书籍阅读器
-*   [codemirror/theme-one-dark](https://github.com/codemirror/theme-one-dark) - One Dark theme for the CodeMirror code editor
-*   [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
-*   [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
-*   [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
-*   [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
-*   [reactjs/zh-hans.react.dev](https://github.com/reactjs/zh-hans.react.dev) - React documentation website in Simplified Chinese
-*   [zhixingxiaoke/react-hands-on-tutorial-for-beginners](https://github.com/zhixingxiaoke/react-hands-on-tutorial-for-beginners) - 知行小课《React 入门实战教程》课程源码
-*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-*   [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
-*   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
-*   [zpao/qrcode.react](https://github.com/zpao/qrcode.react) - A \<QRCode/> component for use with React.
-*   [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
-*   [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
-*   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
-*   [jeandv/my-next-portfolio](https://github.com/jeandv/my-next-portfolio) - My portfolio + Blog | Next.js, TypeScript, Tailwind and Sanity CMS
-*   [youngle316/chatgpt-nextjs](https://github.com/youngle316/chatgpt-nextjs) - 像官方 ChatGPT 一样使用，再加入更强大的功能（Use as the official ChatGPT, with even more powerful features.）
-*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-*   [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
-*   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
-*   [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
-*   [uniquemo/react-netease-music](https://github.com/uniquemo/react-netease-music) - React Netease Music——一个基于React、TypeScript的高仿网易云mac客户端🎵播放器。
-*   [beeinger/next-mdx-blog](https://github.com/beeinger/next-mdx-blog) - Next.js 13 app directory MDX blog template, unstyled, with tailwindcss, automatic article resolving, reading time estimation, etc.
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
-*   [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
-*   [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
-*   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-*   [fernandopasik/react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for ⚛️  React.Children data structure that adds recursive filter, map and more methods to iterate nested children.
-*   [gitdagray/next-js-course](https://github.com/gitdagray/next-js-course) -
-*   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-*   [deardings/nextjs-with-tiddlywiki](https://github.com/deardings/nextjs-with-tiddlywiki) - A Next.js App using TiddlyWiki as a CMS
-*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-*   [contentlayerdev/next-contentlayer-example](https://github.com/contentlayerdev/next-contentlayer-example) -
-*   [pixegami/nextjs-blog-tutorial](https://github.com/pixegami/nextjs-blog-tutorial) - Tutorial Project for a NextJS 13 Static Blog with TailwindCSS Styling
-*   [mirsazzathossain/mirsazzathossain.me](https://github.com/mirsazzathossain/mirsazzathossain.me) - This is the ✨ source code for my personal website, built with Next.js, Tailwind CSS, Contentlayer, and 🚀 deployed on Vercel 🔼. You can use this repository as a template to build your own personal website. 😊
-*   [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
-*   [kfirfitousi/mdx-nextjs-13](https://github.com/kfirfitousi/mdx-nextjs-13) - Proof-of-Concept for rendering MDX files using Next.js 13 and next-mdx-remote
-*   [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
-*   [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
-*   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
-*   [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
-*   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
-*   [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
-*   [hqasmei/nextjs13.2-blog](https://github.com/hqasmei/nextjs13.2-blog) - This is a Next.js 13.2, Tailwind CSS and Prisma blogging starter template.
-*   [kfirfitousi/blog](https://github.com/kfirfitousi/blog) - 👨‍💻 Dev blog built with Next.js 13, TypeScript, and Contentlayer, using latest Next.js features
-*   [zolplay-cn/website](https://github.com/zolplay-cn/website) - Zolplay website repo // 佐玩官网
-*   [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
-*   [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
-*   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
-*   [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
-*   [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
-*   [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
-*   [executablebooks/markdown-it-docutils](https://github.com/executablebooks/markdown-it-docutils) - A markdown-it plugin for implementing docutils style roles/directives.
-*   [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
-*   [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
-*   [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
-*   [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress
-*   [AprilNEA/AdminChat](https://github.com/AprilNEA/AdminChat) - One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统
-*   [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
-*   [AIOS-club/aios.chat](https://github.com/AIOS-club/aios.chat) - 一套基于React + Vite + Express的ChatGPT新ui聊天界面，支持gpt4
-*   [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
-*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
-*   [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
-*   [intellism/vscode-comment-translate](https://github.com/intellism/vscode-comment-translate) - vscode 注释翻译插件, 不干扰正常代码，方便快速阅读源码。
-*   [FrDH/mmenu-js](https://github.com/FrDH/mmenu-js) - The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
-*   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
-*   [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
-*   [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-*   [Th1nhNg0/old-thinhcorner](https://github.com/Th1nhNg0/old-thinhcorner) -
-*   [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
-*   [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
-*   [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
-*   [AntmJS/antm](https://github.com/AntmJS/antm) - 前端工程应用工具集, 文档工具：https://antmjs.github.io/antm/antm-doc/#/introduce
-*   [AntmJS/temptaro](https://github.com/AntmJS/temptaro) - Taro应用模版，内置了一些比较常用及有价值的生态工具
-*   [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom) - 🪄 Enables Windi CSS for any site with one-line code without any build tools
-*   [dcasia/mini-program-tailwind](https://github.com/dcasia/mini-program-tailwind) - 让你的小程序用上原汁原味的 Tailwind/Windi CSS
-*   [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
-*   [lsqy/taro-music](https://github.com/lsqy/taro-music) - 🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）
-*   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-*   [teodosii/react-notifications-component](https://github.com/teodosii/react-notifications-component) - Delightful and highly customisable React Component to notify your users
-*   [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-*   [zhpd/chatgpt-plus](https://github.com/zhpd/chatgpt-plus) - 🚀 Open source free ChatGPT App (Web, Mac, Windows and Linux).  免费开源的ChatGPT应用程序.
-*   [osmium-blog/osmium](https://github.com/osmium-blog/osmium) - A static site builder. Powered by Notion and Next.js
-*   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-*   [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-*   [KiritoCheng/openai-server](https://github.com/KiritoCheng/openai-server) -
-*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-*   [noahlange/tiddlymark](https://github.com/noahlange/tiddlymark) - Plugins and tasks for TiddlyWiki to improve Markdown support.
-*   [Jackardios/vscode-css-to-tailwindcss](https://github.com/Jackardios/vscode-css-to-tailwindcss) - CSS to TailwindCSS 3.x converter extension for Visual Studio Code
-*   [coolpace/V2EX\_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
-*   [google/brotli](https://github.com/google/brotli) - Brotli compression format
-*   [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
-*   [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
-*   [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus.
-*   [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
-*   [egoist/openai-proxy](https://github.com/egoist/openai-proxy) - OpenAI proxy on Cloudflare Worker / Vercel Edge
-*   [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
-*   [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-*   [nishanths/zoom.js](https://github.com/nishanths/zoom.js) - Fork of fat/zoom.js with improvements
-*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-*   [alamorre/pretty-chat-react-typescript](https://github.com/alamorre/pretty-chat-react-typescript) -
-*   [gmpetrov/openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - 🤖 Use ChatGPT from the terminal
-*   [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
-*   [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter) - Notion-powered blog starter with @vercel and @tailwindcss
-*   [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
-*   [d2FuZ3h1ZG9uZw/hitokoto](https://github.com/d2FuZ3h1ZG9uZw/hitokoto) - Beautiful browser new tab
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-*   [charkour/react-reactions](https://github.com/charkour/react-reactions) - 😲   Create custom reaction pickers and counters or use your favorites!
-*   [Tecvan-fe/vscode-lsp-sample](https://github.com/Tecvan-fe/vscode-lsp-sample) -
-*   [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
-*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-*   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
-*   [transitive-bullshit/kwote](https://github.com/transitive-bullshit/kwote) - Create beautiful quotes that capture your attention.
-*   [tiddly-gittly/Modern.TiddlyDev](https://github.com/tiddly-gittly/Modern.TiddlyDev) - Modern TiddlyWiki Developing Environment
-*   [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
-*   [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
-*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-*   [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
-*   [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
-*   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
-*   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
-*   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-*   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
-
-## Astro
+## CSS
 
 *   [webtui/webtui](https://github.com/webtui/webtui) -
-*   [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
+*   [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+*   [baymaxsjj/exam-web](https://github.com/baymaxsjj/exam-web) - 为考-前端-毕业设计：在线考试系统，采用SpringCloud+Vue3，完成遗传算法自动组卷、文本批量导入题目、班级码。完成课程、考试、题库、试卷、考试、班级相关功能， 前端：Vue 3、Vite、Pinia、Arco UI，Echarts 后端：SpringBoot、SpringCloud、Mybatis Plus、WebSocket
+*   [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
+*   [oeyoews/tw5](https://github.com/oeyoews/tw5) - 📑 TiddlyWiki5 Fishing record english words. next template is https://github.com/oeyoews/neotw
+*   [hwaphon/HTML5MusicPlayer](https://github.com/hwaphon/HTML5MusicPlayer) - 使用 HTML5 Audio 写的一个音乐播放器，还在完善中，希望小伙伴能提出自己宝贵的意见，谢谢！
+*   [primefaces/sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
+*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
+*   [HubSpot/tooltip](https://github.com/HubSpot/tooltip) - CSS Tooltips built on Tether. #hubspot-open-source
+*   [simple-notify/simple-notify](https://github.com/simple-notify/simple-notify) - Pure javascript toast notifications.
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
+*   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
+*   [dragonman225/notablog-starter](https://github.com/dragonman225/notablog-starter) - The official starter project for Notablog.
+*   [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 
 ## Python
 
@@ -729,6 +744,7 @@
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 *   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+*   [vercel/geist-font](https://github.com/vercel/geist-font) -
 *   [oeyoews/tiddlywiki-docs](https://github.com/oeyoews/tiddlywiki-docs) -
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 *   [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
@@ -843,7 +859,6 @@
 ## Rust
 
 *   [gmg137/netease-cloud-music-api](https://github.com/gmg137/netease-cloud-music-api) - 网易云音乐API
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 *   [ImageOptim/libimagequant](https://github.com/ImageOptim/libimagequant) - Palette quantization library that powers pngquant and other PNG optimizers
 *   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
 *   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -859,7 +874,7 @@
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、最高音质
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 *   [stefanieliang/vue-diff-demo](https://github.com/stefanieliang/vue-diff-demo) - 基于vue实现一个在线对比diff工具。
 *   [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3) - 🎉 基于Spring Boot、Spring Cloud & Alibaba、Vue3 & Vite、Element Plus的分布式前后端分离微服务架构权限管理系统
 *   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
@@ -941,7 +956,6 @@
 *   [danielo515/TW5-contextPlugin](https://github.com/danielo515/TW5-contextPlugin) - A plugin to allow preview with word highlight within searches but not limited to that
 *   [zhangaz1-pro/tiddlywikis-collection](https://github.com/zhangaz1-pro/tiddlywikis-collection) - tiddlywikis-collection
 *   [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
-*   [vercel/geist-font](https://github.com/vercel/geist-font) -
 *   [oeyoews/tiddlywiki](https://github.com/oeyoews/tiddlywiki) - 🍓  (single files in browser)
 *   [oeyoews/create-tiddlywiki-app-on-browser](https://github.com/oeyoews/create-tiddlywiki-app-on-browser) -
 *   [Tokinx/ViewImage](https://github.com/Tokinx/ViewImage) - Gzip compressed to just 2K, small and superb raw JavaScript lightbox plugin
@@ -949,6 +963,7 @@
 *   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 *   [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) - Tabnine Client for Neovim
 *   [casualwriter/vanilla-chatgpt](https://github.com/casualwriter/vanilla-chatgpt) - a minimal ChatGPT client by vanilla javascript, run from local or any static web host
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 *   [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 *   [cdaven/tiddlywiki-stuff](https://github.com/cdaven/tiddlywiki-stuff) - My TiddlyWiki macros and plugins.
 *   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -958,23 +973,6 @@
 *   [yavisht/deploy-via-surge.sh-github-action-template](https://github.com/yavisht/deploy-via-surge.sh-github-action-template) - A simple Github Actions template to deploy your static site using surge.sh
 *   [pubsubhubbub/PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - The PubSubHubbub protocol specification.
 *   [YieldRay/Random-Picture](https://github.com/YieldRay/Random-Picture) - 随机图片api
-
-## CSS
-
-*   [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
-*   [baymaxsjj/exam-web](https://github.com/baymaxsjj/exam-web) - 为考-前端-毕业设计：在线考试系统，采用SpringCloud+Vue3，完成遗传算法自动组卷、文本批量导入题目、班级码。完成课程、考试、题库、试卷、考试、班级相关功能， 前端：Vue 3、Vite、Pinia、Arco UI，Echarts 后端：SpringBoot、SpringCloud、Mybatis Plus、WebSocket
-*   [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
-*   [oeyoews/tw5](https://github.com/oeyoews/tw5) - 📑 TiddlyWiki5 Fishing record english words. next template is https://github.com/oeyoews/neotw
-*   [hwaphon/HTML5MusicPlayer](https://github.com/hwaphon/HTML5MusicPlayer) - 使用 HTML5 Audio 写的一个音乐播放器，还在完善中，希望小伙伴能提出自己宝贵的意见，谢谢！
-*   [primefaces/sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-*   [HubSpot/tooltip](https://github.com/HubSpot/tooltip) - CSS Tooltips built on Tether. #hubspot-open-source
-*   [simple-notify/simple-notify](https://github.com/simple-notify/simple-notify) - Pure javascript toast notifications.
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-*   [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme \_ Basic theme :  SimpleMemory
-*   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
-*   [dragonman225/notablog-starter](https://github.com/dragonman225/notablog-starter) - The official starter project for Notablog.
-*   [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 
 ## Java
 
@@ -1006,7 +1004,6 @@
 *   [MaxLeiter/maxleiter.com](https://github.com/MaxLeiter/maxleiter.com) - My personal site and playground, built with next.js
 *   [Th1nhNg0/thinhcorner.com](https://github.com/Th1nhNg0/thinhcorner.com) - My personal website built with Astro, Tailwindcss
 *   [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 *   [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效UI。
 
@@ -1053,6 +1050,10 @@
 
 *   [Ferry-200/coriander\_player](https://github.com/Ferry-200/coriander_player) - Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 跨语言项目。间断开发中。
 
+## Astro
+
+*   [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
+
 ## PHP
 
 *   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
@@ -1082,7 +1083,6 @@
 *   [Shadowsocks-NET/Qv2ray](https://github.com/Shadowsocks-NET/Qv2ray) - A cross platform connection manager for V2Ray and other backends.
 *   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 *   [mancuoj/408-ds](https://github.com/mancuoj/408-ds) - 408 数据结构历年代码真题详解，暴力解+最优解，含测试
-*   [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课。等等我，还在努力...
 
 ## SVG
 
