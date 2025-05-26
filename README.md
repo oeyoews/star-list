@@ -5,14 +5,16 @@
 ## Table of Contents
 
 *   [HTML](#html)
-*   [Dart](#dart)
 *   [TypeScript](#typescript)
-*   [Go](#go)
-*   [Vue](#vue)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
+*   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
+*   [C++](#c)
+*   [Go](#go)
+*   [C#](#c-1)
+*   [Rust](#rust)
+*   [Dart](#dart)
 *   [PowerShell](#powershell)
 *   [CSS](#css)
 *   [Java](#java)
@@ -20,15 +22,13 @@
 *   [PureBasic](#purebasic)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
-*   [C#](#c)
 *   [MDX](#mdx)
 *   [Lua](#lua)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [PHP](#php)
 *   [Swift](#swift)
 *   [Markdown](#markdown)
 *   [Less](#less)
-*   [C++](#c-2)
 *   [SVG](#svg)
 *   [Vala](#vala)
 *   [DIGITAL Command Language](#digital-command-language)
@@ -47,10 +47,13 @@
 *   [Emacs Lisp](#emacs-lisp)
 *   [RMarkdown](#rmarkdown)
 *   [Perl](#perl)
-*   [Makefile](#makefile)
 
 ## HTML
 
+*   [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+*   [hujiulin/CesiumJS-tutorial](https://github.com/hujiulin/CesiumJS-tutorial) - CesiumJS中文基础教程 http://cesiumcn.org/ | http://cesium.coinidea.com/
+*   [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
+*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 *   [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 *   [avwo/electron-find-bar](https://github.com/avwo/electron-find-bar) - Add a find bar to Electron App
 *   [oeyoews/tiddlywiki-app-website-deploy](https://github.com/oeyoews/tiddlywiki-app-website-deploy) - tiddlywiki-app-website-deploy
@@ -91,15 +94,17 @@
 *   [pubsubhubbub/PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - The PubSubHubbub protocol specification.
 *   [YieldRay/Random-Picture](https://github.com/YieldRay/Random-Picture) - 随机图片api
 *   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-*   [zkeq/zkeq](https://github.com/zkeq/zkeq) - 追星计划 源代码
-
-## Dart
-
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-*   [Ferry-200/coriander\_player](https://github.com/Ferry-200/coriander_player) - Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 跨语言项目。
 
 ## TypeScript
 
+*   [CesiumGS/3d-tiles-tools](https://github.com/CesiumGS/3d-tiles-tools) -
+*   [gamemcu/www-genshin](https://github.com/gamemcu/www-genshin) -
+*   [reearth/resium](https://github.com/reearth/resium) - React components for 🌏 Cesium
+*   [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
+*   [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial 2D & 3D data platforms.
+*   [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+*   [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
+*   [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 *   [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 *   [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -110,7 +115,7 @@
 *   [oyjt/uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template) - 使用uniapp+vite+vue3+typescript+uview-plus+unocss 搭建的适合团队协作的快速开发模版
 *   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 *   [Leecason/element-tiptap](https://github.com/Leecason/element-tiptap) - 🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2)
-*   [worryzyy/cursor-ver-dl](https://github.com/worryzyy/cursor-ver-dl) - Cursor下载链接追踪器，Cursor历史版本下载
+*   [worryzyy/cursor-ver-dl](https://github.com/worryzyy/cursor-ver-dl) - Cursor下载链接追踪器，Cursor beta版本、 历史版本下载
 *   [voideditor/void](https://github.com/voideditor/void) -
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -123,7 +128,7 @@
 *   [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 *   [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 *   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-*   [googleapis/js-genai](https://github.com/googleapis/js-genai) - TypeScript/JavaScript SDK for Gemini and Vertex AI. \[PREVIEW]
+*   [googleapis/js-genai](https://github.com/googleapis/js-genai) - TypeScript/JavaScript SDK for Gemini and Vertex AI.
 *   [bytefer/ollama-ocr](https://github.com/bytefer/ollama-ocr) - Implementing OCR with a local visual model run by ollama.
 *   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 *   [oeyoews/neotw-tiddlers](https://github.com/oeyoews/neotw-tiddlers) - 由Tiddlywiki 记录的一些闪念笔记，主题笔记，词条笔记，项目笔记. 核心就是随心所记(持续更新）https://oeyoews.github.io/neotw-tiddlers
@@ -401,7 +406,7 @@
 *   [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 *   [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 *   [QC2168/vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress
-*   [AprilNEA/AdminChat](https://github.com/AprilNEA/AdminChat) - One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统
+*   [AprilNEA/AChat](https://github.com/AprilNEA/AChat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
 *   [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 *   [AIOS-club/aios.chat](https://github.com/AIOS-club/aios.chat) - 一套基于React + Vite + Express的ChatGPT新ui聊天界面，支持gpt4
 *   [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
@@ -470,95 +475,14 @@
 *   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 *   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 *   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
-*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-
-## Go
-
-*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-*   [jolav/codetabs](https://github.com/jolav/codetabs) - Free Online Services. Github/GitLab star history. Count Lines of Code. CORS proxy server. IP GeoLocation. HTTP Headers. Random Data. Api weather temp. Alexa ranking.
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-*   [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-*   [soulteary/amazing-openai-api](https://github.com/soulteary/amazing-openai-api) - Convert different model APIs into the OpenAI API format out of the box.
-*   [djyde/snp](https://github.com/djyde/snp) - VS Code code snippet generator
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
-*   [dianbanjiu/rss\_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
-*   [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
-*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
-*   [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) - LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua.
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-
-## Vue
-
-*   [fantastic-admin/basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，兼容PC、移动端。An out-of-the-box Vue middle background management system framework, which supports a variety of UI component libraries and is compatible with PC and mobile terminals.
-*   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-*   [jonehoo/Siwu-IoT-Views](https://github.com/jonehoo/Siwu-IoT-Views) - 基于RuoYi-Vue 3.8.8和Dataroom 2.0.0 集成开发的物联网可视化平台
-*   [HeJiaYue520/Element-Plus-X](https://github.com/HeJiaYue520/Element-Plus-X) - 🚀 Vue3 + Element-Plus 开箱即用的企业级AI组件库前端解决方案 | Element-Plus-X
-*   [nekomeowww/talks](https://github.com/nekomeowww/talks) - 💬🗣️ Public talks I presented historically in Demo Day, Demo Inn, KubeCon, @DaoCloud, all built with @slidevjs
-*   [cherryful/unocss-ui](https://github.com/cherryful/unocss-ui) - A simple Vue3 component library based on Unocss.
-*   [oeyoews/tiddlywiki-vue-plugin-starter-kit](https://github.com/oeyoews/tiddlywiki-vue-plugin-starter-kit) - tiddlywiki vue starter dev kit
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-*   [stefanieliang/vue-diff-demo](https://github.com/stefanieliang/vue-diff-demo) - 基于vue实现一个在线对比diff工具。
-*   [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3) - 🎉 基于Spring Boot、Spring Cloud & Alibaba、Vue3 & Vite、Element Plus的分布式前后端分离微服务架构权限管理系统
-*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
-*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
-*   [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
-*   [Lmmmmmm-bb/octo-exam](https://github.com/Lmmmmmm-bb/octo-exam) - Vite + Vue3 的在线考试系统
-*   [oeyoews/usewiki2](https://github.com/oeyoews/usewiki2) - TiddlyWiki5 的浏览器扩展助手
-*   [pdsuwwz/vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) - 🐬 一个轻量级、开箱即用、快速开发 Vue3 (setup)  全家桶 + Vite6 + i18n 路由级国际化 + Element-Plus + UnoCSS + TypeScript + Vuex + Unplugin + ESLint (v9) + Vitest + Scss + StyleLint + Husky + lint-staged 中小型 B 端中后台管理系统的现代开发基础模板框架, 模块化, 持续更新最新技术栈, 更贴近真实项目的脚手架 💪 A template admin built on Vite6 + Vitest + Vue 3 (附示例截图)
-*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
-*   [antoniandre/vue-cal-v4](https://github.com/antoniandre/vue-cal-v4) - A Vue.js full calendar, no dependency, no BS. :metal:
-*   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
-*   [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-*   [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-*   [mx-space/mx-admin](https://github.com/mx-space/mx-admin) - 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.
-*   [vuejs/theme](https://github.com/vuejs/theme) - VitePress theme for vuejs.org.
-*   [layui-vue/layui-vue](https://github.com/layui-vue/layui-vue) - An enterprise-class UI components based on Layui and Vue.
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-*   [PKM-er/Pkmer-Widget](https://github.com/PKM-er/Pkmer-Widget) -
-*   [xiaoluoboding/vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - ⌨️ A fast, composable, unstyled command palette interface for Vue.
-*   [johndatserakis/vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) - 📌 Simple context-menu component built for Vue. Works well with both left and right clicks. Nothing too fancy, just works and is simple to use.
-*   [imengyu/vue3-context-menu](https://github.com/imengyu/vue3-context-menu) - A very simple context menu component for Vue3 一个简洁美观简单的Vue3右键菜单组件
-*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
-*   [rafalolszewski94/vue3-smooth-scrollbar](https://github.com/rafalolszewski94/vue3-smooth-scrollbar) -
-*   [jackchen0120/vueDataV](https://github.com/jackchen0120/vueDataV) - 基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。
-*   [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
-*   [zernonia/vue0](https://github.com/zernonia/vue0) - Vue version open source alternative for v0.dev
-*   [jmaczan/basic-vue-chat](https://github.com/jmaczan/basic-vue-chat) - 💬 Easy to use Vue chat
-*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
-*   [Hzy0913/mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) - 📅 A calendar component for vue3.0. Support gesture sliding, range selection, according to the week switch...
-*   [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) - 一个全随机的刷装备小游戏
-*   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
-*   [sl1673495/vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player
-*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-*   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
-*   [OblivionTime/chat](https://github.com/OblivionTime/chat) - 基于electron和nodejs实现仿TIM界面,实现基本的添加好友,单聊,群聊,语音通话,视频通话,发送文件,发送图片
-*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
-*   [viandwi24/nuxt3-awesome-starter](https://github.com/viandwi24/nuxt3-awesome-starter) - a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss + Nuxt Layer
-*   [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
-*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
-*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
-*   [johnpoint/RssReader](https://github.com/johnpoint/RssReader) - vue + go 的在线 rss 阅读器
-*   [Laruxo/rss-reader-vue](https://github.com/Laruxo/rss-reader-vue) - Simple RSS Feed Reader Using Vue 3
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-*   [ZHYI-source/blog-node-express-mysql-vue2](https://github.com/ZHYI-source/blog-node-express-mysql-vue2) - 😜博客全栈系统，vue2 + node.js + express + mysql 包含前端博客展示、后台管理、node后端服务。包括前后台完整基础功能，前台站点一键置灰，支持移动端适配;管理端常用增·查·改页面内置代码自动生成即可，sql文件已附上，整套博客系统开箱即用,已完成代码生成器，权限模块，菜单管理，文章管理，评论，每日统计，站点配置，音乐配置等等
-*   [zonemeen/iBlog](https://github.com/zonemeen/iBlog) - 🔥 基于Vue、Node.js(Express)、MongoDB搭建的个人博客blog&后台管理系统admin，承接项目+解决疑难杂症，联系微信：zonemeen
-*   [tywei90/CMS-of-Blog\_Production](https://github.com/tywei90/CMS-of-Blog_Production) - :frog: 博客内容管理系统
-*   [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 
 ## JavaScript
 
+*   [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
+*   [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
+*   [OpenThree/three-cesium-examples](https://github.com/OpenThree/three-cesium-examples) - WebGL Three.js Cesium.js Examples And Demo - WebGL 的 Three.js 和 Cesium.js 案例 --- Star ---点星星
+*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+*   [CesiumGS/cesium-vite-example](https://github.com/CesiumGS/cesium-vite-example) - The minimal recommended setup for an application using Cesium with Vite.
 *   [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth\_americas:
 *   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 *   [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS.
@@ -884,29 +808,82 @@
 *   [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
 *   [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-*   [ftavilla/semantic-release-gitlab-publish](https://github.com/ftavilla/semantic-release-gitlab-publish) - Semantic-release shareable configuration for easy publishing to a package registry, generate Gitlab release and CHANGELOG.md
-*   [npkgz/cli-progress](https://github.com/npkgz/cli-progress) -  :hourglass: easy to use progress-bar for command-line/terminal applications
-*   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 
-## Rust
+## Vue
 
-*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-*   [gmg137/netease-cloud-music-api](https://github.com/gmg137/netease-cloud-music-api) - 网易云音乐API
-*   [ImageOptim/libimagequant](https://github.com/ImageOptim/libimagequant) - Palette quantization library that powers pngquant and other PNG optimizers
-*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
-*   [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
-*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+*   [csincs123/cesiumjs-learn](https://github.com/csincs123/cesiumjs-learn) - cesiumjs教程的vue3版本
+*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling
+*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.
+*   [fantastic-admin/basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，兼容PC、移动端。An out-of-the-box Vue middle background management system framework, which supports a variety of UI component libraries and is compatible with PC and mobile terminals.
+*   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+*   [jonehoo/Siwu-IoT-Views](https://github.com/jonehoo/Siwu-IoT-Views) - 基于RuoYi-Vue 3.8.8和Dataroom 2.0.0 集成开发的物联网可视化平台
+*   [HeJiaYue520/Element-Plus-X](https://github.com/HeJiaYue520/Element-Plus-X) - 🚀 Vue3 + Element-Plus 开箱即用的企业级AI组件库前端解决方案 | Element-Plus-X
+*   [nekomeowww/talks](https://github.com/nekomeowww/talks) - 💬🗣️ Public talks I presented historically in Demo Day, Demo Inn, KubeCon, @DaoCloud, all built with @slidevjs
+*   [cherryful/unocss-ui](https://github.com/cherryful/unocss-ui) - A simple Vue3 component library based on Unocss.
+*   [oeyoews/tiddlywiki-vue-plugin-starter-kit](https://github.com/oeyoews/tiddlywiki-vue-plugin-starter-kit) - tiddlywiki vue starter dev kit
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+*   [stefanieliang/vue-diff-demo](https://github.com/stefanieliang/vue-diff-demo) - 基于vue实现一个在线对比diff工具。
+*   [yangzongzhuan/RuoYi-Cloud-Vue3](https://github.com/yangzongzhuan/RuoYi-Cloud-Vue3) - 🎉 基于Spring Boot、Spring Cloud & Alibaba、Vue3 & Vite、Element Plus的分布式前后端分离微服务架构权限管理系统
+*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
+*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+*   [roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web) - 《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。
+*   [Lmmmmmm-bb/octo-exam](https://github.com/Lmmmmmm-bb/octo-exam) - Vite + Vue3 的在线考试系统
+*   [oeyoews/usewiki2](https://github.com/oeyoews/usewiki2) - TiddlyWiki5 的浏览器扩展助手
+*   [pdsuwwz/vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) - 🐬 一个轻量级、开箱即用、快速开发 Vue3 (setup)  全家桶 + Vite6 + i18n 路由级国际化 + Element-Plus + UnoCSS + TypeScript + Vuex + Unplugin + ESLint (v9) + Vitest + Scss + StyleLint + Husky + lint-staged 中小型 B 端中后台管理系统的现代开发基础模板框架, 模块化, 持续更新最新技术栈, 更贴近真实项目的脚手架 💪 A template admin built on Vite6 + Vitest + Vue 3 (附示例截图)
+*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
+*   [antoniandre/vue-cal-v4](https://github.com/antoniandre/vue-cal-v4) - A Vue.js full calendar, no dependency, no BS. :metal:
+*   [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner) - 🔔 An opinionated toast component for Vue & Nuxt.
+*   [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+*   [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+*   [mx-space/mx-admin](https://github.com/mx-space/mx-admin) - 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.
+*   [vuejs/theme](https://github.com/vuejs/theme) - VitePress theme for vuejs.org.
+*   [layui-vue/layui-vue](https://github.com/layui-vue/layui-vue) - An enterprise-class UI components based on Layui and Vue.
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+*   [PKM-er/Pkmer-Widget](https://github.com/PKM-er/Pkmer-Widget) -
+*   [xiaoluoboding/vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - ⌨️ A fast, composable, unstyled command palette interface for Vue.
+*   [johndatserakis/vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) - 📌 Simple context-menu component built for Vue. Works well with both left and right clicks. Nothing too fancy, just works and is simple to use.
+*   [imengyu/vue3-context-menu](https://github.com/imengyu/vue3-context-menu) - A very simple context menu component for Vue3 一个简洁美观简单的Vue3右键菜单组件
+*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
+*   [rafalolszewski94/vue3-smooth-scrollbar](https://github.com/rafalolszewski94/vue3-smooth-scrollbar) -
+*   [jackchen0120/vueDataV](https://github.com/jackchen0120/vueDataV) - 基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。
+*   [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
+*   [zernonia/vue0](https://github.com/zernonia/vue0) - Vue version open source alternative for v0.dev
+*   [jmaczan/basic-vue-chat](https://github.com/jmaczan/basic-vue-chat) - 💬 Easy to use Vue chat
+*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+*   [Hzy0913/mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar) - 📅 A calendar component for vue3.0. Support gesture sliding, range selection, according to the week switch...
+*   [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) - 一个全随机的刷装备小游戏
+*   [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
+*   [sl1673495/vue-netease-music](https://github.com/sl1673495/vue-netease-music) - 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player
+*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+*   [binjie09/chatgpt-web](https://github.com/binjie09/chatgpt-web) - 使用 express 和 vue3 搭建的 ChartGPT 演示网页
+*   [OblivionTime/chat](https://github.com/OblivionTime/chat) - 基于electron和nodejs实现仿TIM界面,实现基本的添加好友,单聊,群聊,语音通话,视频通话,发送文件,发送图片
+*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
+*   [viandwi24/nuxt3-awesome-starter](https://github.com/viandwi24/nuxt3-awesome-starter) - a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss + Nuxt Layer
+*   [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
+*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
+*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
+*   [johnpoint/RssReader](https://github.com/johnpoint/RssReader) - vue + go 的在线 rss 阅读器
+*   [Laruxo/rss-reader-vue](https://github.com/Laruxo/rss-reader-vue) - Simple RSS Feed Reader Using Vue 3
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+*   [ZHYI-source/blog-node-express-mysql-vue2](https://github.com/ZHYI-source/blog-node-express-mysql-vue2) - 😜博客全栈系统，vue2 + node.js + express + mysql 包含前端博客展示、后台管理、node后端服务。包括前后台完整基础功能，前台站点一键置灰，支持移动端适配;管理端常用增·查·改页面内置代码自动生成即可，sql文件已附上，整套博客系统开箱即用,已完成代码生成器，权限模块，菜单管理，文章管理，评论，每日统计，站点配置，音乐配置等等
+*   [zonemeen/iBlog](https://github.com/zonemeen/iBlog) - 🔥 基于Vue、Node.js(Express)、MongoDB搭建的个人博客blog&后台管理系统admin，承接项目+解决疑难杂症，联系微信：zonemeen
+*   [tywei90/CMS-of-Blog\_Production](https://github.com/tywei90/CMS-of-Blog_Production) - :frog: 博客内容管理系统
+*   [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 
 ## miscellaneous
 
+*   [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) -
+*   [J3n5en/curs0r-release](https://github.com/J3n5en/curs0r-release) -
+*   [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
 *   [chengazhen/cursor-auto-free-doc](https://github.com/chengazhen/cursor-auto-free-doc) -
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 *   [YanCchen/Cursor\_Change\_ID\_Auto](https://github.com/YanCchen/Cursor_Change_ID_Auto) - 支持 Cursor 0.49.x 的一键全流程脚本，无限白嫖免费续杯，win/mac的ID修改、自动注册替换新账户，实现一键全流程脚本 | 全网免费auto第一个解决自动更换账户后打开Cursor账户自动退出问题
@@ -961,17 +938,10 @@
 *   [zhiiwg/Awesome-Linux-Software-zh\_CN](https://github.com/zhiiwg/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 *   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 *   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
-*   [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
-*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-*   [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
-*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-*   [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 ## Python
 
+*   [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 *   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -1009,7 +979,64 @@
 *   [kaedea/notion-up](https://github.com/kaedea/notion-up) - Use NotionUp (Notion Backup) + CircleCI to  backup your notion data nightly.｜自动备份 Notion 数据。｜Notion データのバックアップを自動化する
 *   [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 *   [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+## C++
+
+*   [CesiumGS/cesium-unreal](https://github.com/CesiumGS/cesium-unreal) - Bringing the 3D geospatial ecosystem to Unreal Engine
+*   [district10/notes](https://github.com/district10/notes) - 我的笔记
+*   [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
+*   [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
+*   [Shadowsocks-NET/Qv2ray](https://github.com/Shadowsocks-NET/Qv2ray) - A cross platform connection manager for V2Ray and other backends.
+*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+*   [mancuoj/408-ds](https://github.com/mancuoj/408-ds) - 408 数据结构历年代码真题详解，暴力解+最优解，含测试
+*   [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课。等等我，还在努力...
+*   [Didnelpsun/CS408](https://github.com/Didnelpsun/CS408) - 考研计算机科学408笔记整理
+
+## Go
+
+*   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+*   [jolav/codetabs](https://github.com/jolav/codetabs) - Free Online Services. Github/GitLab star history. Count Lines of Code. CORS proxy server. IP GeoLocation. HTTP Headers. Random Data. Api weather temp. Alexa ranking.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+*   [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
+*   [soulteary/amazing-openai-api](https://github.com/soulteary/amazing-openai-api) - Convert different model APIs into the OpenAI API format out of the box.
+*   [djyde/snp](https://github.com/djyde/snp) - VS Code code snippet generator
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
+*   [dianbanjiu/rss\_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
+*   [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
+*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
+*   [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) - LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua.
+
+## C\#
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+## Rust
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [gmg137/netease-cloud-music-api](https://github.com/gmg137/netease-cloud-music-api) - 网易云音乐API
+*   [ImageOptim/libimagequant](https://github.com/ImageOptim/libimagequant) - Palette quantization library that powers pngquant and other PNG optimizers
+*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+*   [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
+*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
+*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+
+## Dart
+
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+*   [Ferry-200/coriander\_player](https://github.com/Ferry-200/coriander_player) - Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 跨语言项目。
 
 ## PowerShell
 
@@ -1034,7 +1061,6 @@
 *   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
 *   [dragonman225/notablog-starter](https://github.com/dragonman225/notablog-starter) - The official starter project for Notablog.
 *   [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
-*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 
 ## Java
 
@@ -1049,7 +1075,6 @@
 *   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
 *   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 *   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 
 ## Astro
 
@@ -1075,7 +1100,6 @@
 *   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
 *   [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
 *   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
 
 ## Kotlin
 
@@ -1083,11 +1107,6 @@
 *   [prof18/RSS-Parser](https://github.com/prof18/RSS-Parser) - A Kotlin Multiplatform library to parse a RSS Feed
 *   [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer
 *   [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
-
-## C\#
-
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 
 ## MDX
 
@@ -1134,13 +1153,6 @@
 *   [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
 *   [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
 *   [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
-*   [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
-*   [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
-*   [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
-*   [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
-*   [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
-*   [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
-*   [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 
 ## C
 
@@ -1172,17 +1184,6 @@
 ## Less
 
 *   [opentiny/tiny-vue](https://github.com/opentiny/tiny-vue) - TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.
-
-## C++
-
-*   [district10/notes](https://github.com/district10/notes) - 我的笔记
-*   [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
-*   [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
-*   [Shadowsocks-NET/Qv2ray](https://github.com/Shadowsocks-NET/Qv2ray) - A cross platform connection manager for V2Ray and other backends.
-*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-*   [mancuoj/408-ds](https://github.com/mancuoj/408-ds) - 408 数据结构历年代码真题详解，暴力解+最优解，含测试
-*   [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课。等等我，还在努力...
-*   [Didnelpsun/CS408](https://github.com/Didnelpsun/CS408) - 考研计算机科学408笔记整理
 
 ## SVG
 
@@ -1229,7 +1230,6 @@
 
 *   [joeytwiddle/sexy\_scroller.vim](https://github.com/joeytwiddle/sexy_scroller.vim) - smooth animation of the cursor and the page whenever they move, with easing
 *   [mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - A vim 7.4+ plugin to generate table of contents for Markdown files.
-*   [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
 
 ## EJS
 
@@ -1276,7 +1276,3 @@
 ## Perl
 
 *   [file-icons/icons](https://github.com/file-icons/icons) - Source files for the custom icon-font used by the File-Icons package.
-
-## Makefile
-
-*   [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
