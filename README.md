@@ -51,6 +51,7 @@
 
 ## TypeScript
 
+*   [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 *   [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 *   [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
 *   [Nodlik/StPageFlip](https://github.com/Nodlik/StPageFlip) - Simple library for creating realistic page turning effects
@@ -64,7 +65,6 @@
 *   [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 *   [subframe7536/vscode-theme-maple](https://github.com/subframe7536/vscode-theme-maple) - A colorful VSCode theme, support light and dark mode, with medium brightness and low saturation.
 *   [mdit-plugins/mdit-plugins](https://github.com/mdit-plugins/mdit-plugins) - Markdown it plugin collections written with ts
-*   [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 *   [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 *   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 *   [hululuuuuu/GlobeStream3D](https://github.com/hululuuuuu/GlobeStream3D) -  基于threejs开发的3D地球2D 地图 js组件，适用所有前端js框架 Building 3D visualization based on three.js, High efficiency component
@@ -205,7 +205,7 @@
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 *   [avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 *   [binhtran432k/ungrammar-language-features](https://github.com/binhtran432k/ungrammar-language-features) - Language Features for Ungrammar
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
 *   [takuma-ru/vue-swipe-modal](https://github.com/takuma-ru/vue-swipe-modal) - Modal window that can be swiped to close.（Swipeable Bottom Sheet）
 *   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 *   [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Metadata parser for audio and video media files. Supports file and stream inputs in Node.js and browser environments, extracting format, tag, and duration information.
@@ -482,7 +482,6 @@
 *   [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 *   [avwo/electron-find-bar](https://github.com/avwo/electron-find-bar) - Add a find bar to Electron App
 *   [oeyoews/tiddlywiki-app-website-deploy](https://github.com/oeyoews/tiddlywiki-app-website-deploy) - tiddlywiki-app-website-deploy
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [ln-dev7/unique-transition-between-grid-and-list-views](https://github.com/ln-dev7/unique-transition-between-grid-and-list-views) - Funny Grid Animation
 *   [029danio/fly](https://github.com/029danio/fly) - 机场推荐2025｜机场节点 | 分享翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN
 *   [GTOL/MyTiddlyWiki](https://github.com/GTOL/MyTiddlyWiki) - 这个叫做TiddlyWiki的东西有点好玩，测试一下。
@@ -543,7 +542,6 @@
 *   [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 *   [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh
 *   [junjiem/dify-plugin-repackaging](https://github.com/junjiem/dify-plugin-repackaging) - Scripting tool for downloading Dify plugin package from Dify Marketplace and Github and repackaging \[true] offline package.
-*   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 *   [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 *   [zxp19821005/My\_AUR\_Files](https://github.com/zxp19821005/My_AUR_Files) - Store My AUR Files Only
 *   [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
@@ -1003,7 +1001,7 @@
 *   [zhuolhc/Mac-typora-activation](https://github.com/zhuolhc/Mac-typora-activation) - 一个仅仅需要修改官方配置文件的方法，非破解版，无需下载额外软件的typora Mac 免费激活方法 typora for mac
 *   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY\_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 *   [oeyoews/dockers](https://github.com/oeyoews/dockers) - some docker-compose.yml
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年9月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年10月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 *   [vpadminorg/VpAdmin](https://github.com/vpadminorg/VpAdmin) -
 *   [Yiov/vitepress-doc](https://github.com/Yiov/vitepress-doc) - VitePress教程文档
 *   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
@@ -1085,7 +1083,6 @@
 *   [elyra-ai/elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab with an AI centric approach.
 *   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 *   [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
-*   [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 *   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
 *   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 *   [lzskyline/OpenDify](https://github.com/lzskyline/OpenDify) - OpenDify 是一个将 Dify API 转换为 OpenAI API 格式的代理服务器。它允许使用 OpenAI API 客户端直接与 Dify 服务进行交互，支持保持会话历史。OpenDify is a proxy server that transforms the Dify API into OpenAI API format. It allows direct interaction with Dify services using any OpenAI API client.
@@ -1103,6 +1100,7 @@
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 *   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 *   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - \[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 *   [PangTouY00/aggregator](https://github.com/PangTouY00/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 *   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
@@ -1189,7 +1187,7 @@
 
 ## MDX
 
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 *   [webtui/webtui](https://github.com/webtui/webtui) -
 *   [ginobefun/ginonotes-blog](https://github.com/ginobefun/ginonotes-blog) - 这是我的个人博客网站 ginonotes.com，基于现代 Web 技术栈构建，专注于提供清新、整洁的阅读体验。
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -1225,6 +1223,7 @@
 *   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 *   [dianbanjiu/rss\_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
 *   [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
+*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
 
 ## Meson
 
@@ -1284,6 +1283,7 @@
 *   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 *   [soulteary/AvatarCache](https://github.com/soulteary/AvatarCache) - Your Own Avatar Api.
 *   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+*   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
 ## Swift
 
