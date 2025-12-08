@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Kotlin](#kotlin)
@@ -16,7 +17,6 @@
 *   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
-*   [Python](#python)
 *   [C#](#c-2)
 *   [PowerShell](#powershell)
 *   [Rust](#rust)
@@ -48,6 +48,67 @@
 *   [Batchfile](#batchfile)
 *   [Emacs Lisp](#emacs-lisp)
 *   [RMarkdown](#rmarkdown)
+
+## Python
+
+*   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - \[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+*   [justplus/llm-eval](https://github.com/justplus/llm-eval) - 大语言模型评估平台，支持多种评估基准、自定义数据集和性能测试。支持基于自定义数据集的RAG评估。
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+*   [elyra-ai/elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab with an AI centric approach.
+*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+*   [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+*   [lzskyline/OpenDify](https://github.com/lzskyline/OpenDify) - OpenDify 是一个将 Dify API 转换为 OpenAI API 格式的代理服务器。它允许使用 OpenAI API 客户端直接与 Dify 服务进行交互，支持保持会话历史。OpenDify is a proxy server that transforms the Dify API into OpenAI API format. It allows direct interaction with Dify services using any OpenAI API client.
+*   [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) - remove augmentcode free trial account limit
+*   [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
+*   [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+*   [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+*   [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+*   [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+*   [hustyichi/dify-rag](https://github.com/hustyichi/dify-rag) - dify's rag patch module
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+*   [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+*   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - \[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
+*   [owlman/CS\_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+*   [PangTouY00/aggregator](https://github.com/PangTouY00/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+*   [blair-c/tailwind-to-css-snippets](https://github.com/blair-c/tailwind-to-css-snippets) - VS Code Snippet Extension
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+*   [vercel/geist-font](https://github.com/vercel/geist-font) -
+*   [oeyoews/tiddlywiki-docs](https://github.com/oeyoews/tiddlywiki-docs) -
+*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+*   [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
+*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+*   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
+*   [replicate/cog-llama-template](https://github.com/replicate/cog-llama-template) - LLaMA Cog template
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+*   [metaescape/Wen](https://github.com/metaescape/Wen) - 中文语言服务
+*   [whatbeg/GodTian\_Pinyin](https://github.com/whatbeg/GodTian_Pinyin) - A Simple Chinese Pinyin Input Method Using HMM and Some Tricks with Python
+*   [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
+*   [ading2210/poe-api](https://github.com/ading2210/poe-api) - \[UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+*   [mouday/wallpaper-database](https://github.com/mouday/wallpaper-database) - wallpaper database
+*   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
+*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+*   [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase.
+*   [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
+*   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
+*   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
+*   [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - An AI-powered smart vocabulary tool with features like One-click vocabulary building and story-based memorization.
+*   [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
+*   [kaedea/notion-up](https://github.com/kaedea/notion-up) - Use NotionUp (Notion Backup) + CircleCI to  backup your notion data nightly.｜自动备份 Notion 数据。｜Notion データのバックアップを自動化する
 
 ## TypeScript
 
@@ -104,7 +165,7 @@
 *   [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 *   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 *   [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 *   [nshen/vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - ⚡ Vite plugin for Cesium
 *   [oyjt/uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template) - 使用uniapp+vite+vue3+typescript+uview-plus+unocss 搭建的适合团队协作的快速开发模版
@@ -120,7 +181,7 @@
 *   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 *   [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 *   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-*   [refly-ai/refly](https://github.com/refly-ai/refly) - The Open-Source Agentic Workspace for Human-AI Collaboration.
+*   [refly-ai/refly](https://github.com/refly-ai/refly) - Vibe Workflow Platform for Non-technical Creators.
 *   [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
 *   [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 *   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -160,7 +221,7 @@
 *   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 *   [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
 *   [Ocyss/boos-helper](https://github.com/Ocyss/boos-helper) - Boss直聘助手-优化UI去除广告,批量投递简历,高级筛选,GPT自动打招呼,多账号管理...
-*   [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
+*   [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 *   [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 *   [google-gemini/deprecated-generative-ai-js](https://github.com/google-gemini/deprecated-generative-ai-js) - This SDK is now deprecated, use the new unified Google GenAI SDK.
 *   [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
@@ -934,8 +995,6 @@
 *   [Agezao/confetti-js](https://github.com/Agezao/confetti-js) - Easily Generate random confetti for your above-the-fold content
 *   [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 *   [saqimtiaz/tw5-plugins-sandbox](https://github.com/saqimtiaz/tw5-plugins-sandbox) - Sandbox for experimental TW5 plugins with no support
-*   [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-*   [VincentCordobes/convert-snippets](https://github.com/VincentCordobes/convert-snippets) - UltiSnips ↔︎ VsCode (json) snippets converter
 
 ## Vue
 
@@ -1032,7 +1091,7 @@
 *   [zhuolhc/Mac-typora-activation](https://github.com/zhuolhc/Mac-typora-activation) - 一个仅仅需要修改官方配置文件的方法，非破解版，无需下载额外软件的typora Mac 免费激活方法 typora for mac
 *   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY\_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 *   [oeyoews/dockers](https://github.com/oeyoews/dockers) - some docker-compose.yml
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年11月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年12月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 *   [vpadminorg/VpAdmin](https://github.com/vpadminorg/VpAdmin) -
 *   [Yiov/vitepress-doc](https://github.com/Yiov/vitepress-doc) - VitePress教程文档
 *   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
@@ -1107,65 +1166,6 @@
 *   [Shadowsocks-NET/Qv2ray](https://github.com/Shadowsocks-NET/Qv2ray) - A cross platform connection manager for V2Ray and other backends.
 *   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 *   [mancuoj/408-ds](https://github.com/mancuoj/408-ds) - 408 数据结构历年代码真题详解，暴力解+最优解，含测试
-
-## Python
-
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-*   [elyra-ai/elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab with an AI centric approach.
-*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-*   [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-*   [lzskyline/OpenDify](https://github.com/lzskyline/OpenDify) - OpenDify 是一个将 Dify API 转换为 OpenAI API 格式的代理服务器。它允许使用 OpenAI API 客户端直接与 Dify 服务进行交互，支持保持会话历史。OpenDify is a proxy server that transforms the Dify API into OpenAI API format. It allows direct interaction with Dify services using any OpenAI API client.
-*   [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) - remove augmentcode free trial account limit
-*   [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
-*   [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-*   [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-*   [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-*   [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-*   [hustyichi/dify-rag](https://github.com/hustyichi/dify-rag) - dify's rag patch module
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-*   [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-*   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - \[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
-*   [owlman/CS\_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-*   [PangTouY00/aggregator](https://github.com/PangTouY00/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-*   [blair-c/tailwind-to-css-snippets](https://github.com/blair-c/tailwind-to-css-snippets) - VS Code Snippet Extension
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-*   [vercel/geist-font](https://github.com/vercel/geist-font) -
-*   [oeyoews/tiddlywiki-docs](https://github.com/oeyoews/tiddlywiki-docs) -
-*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-*   [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
-*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-*   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-*   [replicate/cog-llama-template](https://github.com/replicate/cog-llama-template) - LLaMA Cog template
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-*   [metaescape/Wen](https://github.com/metaescape/Wen) - 中文语言服务
-*   [whatbeg/GodTian\_Pinyin](https://github.com/whatbeg/GodTian_Pinyin) - A Simple Chinese Pinyin Input Method Using HMM and Some Tricks with Python
-*   [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
-*   [ading2210/poe-api](https://github.com/ading2210/poe-api) - \[UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
-*   [mouday/wallpaper-database](https://github.com/mouday/wallpaper-database) - wallpaper database
-*   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-*   [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase.
-*   [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
-*   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
-*   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
-*   [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - An AI-powered smart vocabulary tool with features like One-click vocabulary building and story-based memorization.
-*   [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
-*   [kaedea/notion-up](https://github.com/kaedea/notion-up) - Use NotionUp (Notion Backup) + CircleCI to  backup your notion data nightly.｜自动备份 Notion 数据。｜Notion データのバックアップを自動化する
 
 ## C\#
 
