@@ -53,6 +53,7 @@
 
 ## TypeScript
 
+*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 *   [blrchen/chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UI with support for both OpenAI and Azure OpenAI. 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。
 *   [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
@@ -564,7 +565,6 @@
 *   [sky22333/Docker-Hub](https://github.com/sky22333/Docker-Hub) -
 *   [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
 *   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-*   [zhuolhc/Mac-typora-activation](https://github.com/zhuolhc/Mac-typora-activation) - 一个仅仅需要修改官方配置文件的方法，非破解版，无需下载额外软件的typora Mac 免费激活方法 typora for mac
 *   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY\_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 *   [oeyoews/dockers](https://github.com/oeyoews/dockers) - some docker-compose.yml
 *   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年1月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
