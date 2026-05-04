@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Python](#python)
+*   [Rust](#rust)
 *   [Go](#go)
 *   [Shell](#shell)
-*   [Python](#python)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
 *   [Java](#java)
@@ -52,147 +52,10 @@
 *   [RMarkdown](#rmarkdown)
 *   [Perl](#perl)
 
-## Go
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
-*   [nielspeter/claude-code-proxy](https://github.com/nielspeter/claude-code-proxy) - Lightweight HTTP proxy enabling Claude Code to work with OpenRouter (200+ models), OpenAI Direct (GPT-5), and Ollama (local inference). Full tool support, streaming, thinking blocks.
-*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-*   [fastclaw-ai/fastclaw](https://github.com/fastclaw-ai/fastclaw) - Faster and better openclaw alternative
-*   [gookit/gcli](https://github.com/gookit/gcli) - 🖥 Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. Go的命令行应用，工具库，运行CLI命令，支持命令行色彩，用户交互，进度显示，数据格式化显示，生成bash/zsh命令补全脚本
-*   [oeyoews/go-image-server](https://github.com/oeyoews/go-image-server) - 本地图片上传与管理服务，基于 Gin 的轻量级 HTTP 服务，支持上传、列表、删除与静态访问图片。
-*   [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
-*   [lostvip-com/ruoyi-go](https://github.com/lostvip-com/ruoyi-go) - 🎉若依后台管理系统（golang版）,基于 gin + gorm，支持mybatis式的sql与go代码分离，代码风格极尽简洁，传统模板引擎技术，适合后端开发人员单挑一个项目使用。 ruoyi go
-*   [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
-*   [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-*   [r3labs/sse](https://github.com/r3labs/sse) - Server Sent Events server and client for Golang
-*   [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Also supports external providers like Azure, OpenRouter and Local Ollama.
-*   [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
-*   [smallnest/goclaw](https://github.com/smallnest/goclaw) - An open-source AI assistant framework like openclaw
-*   [elastic/go-sysinfo](https://github.com/elastic/go-sysinfo) - go-sysinfo is a library for collecting system information.
-*   [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
-*   [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-*   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-*   [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
-*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-*   [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-*   [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-*   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
-*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-*   [jolav/codetabs](https://github.com/jolav/codetabs) - Free Online Services. Github/GitLab star history. Count Lines of Code. CORS proxy server. IP GeoLocation. HTTP Headers. Random Data. Api weather temp. Alexa ranking.
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-*   [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
-*   [soulteary/amazing-openai-api](https://github.com/soulteary/amazing-openai-api) - Convert different model APIs into the OpenAI API format out of the box.
-*   [djyde/snp](https://github.com/djyde/snp) - VS Code code snippet generator
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
-*   [dianbanjiu/rss\_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
-*   [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
-*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
-
-## Shell
-
-*   [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
-*   [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-*   [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-*   [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
-*   [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh
-*   [junjiem/dify-plugin-repackaging](https://github.com/junjiem/dify-plugin-repackaging) - Scripting tool for downloading Dify plugin package from Dify Marketplace and Github and repackaging \[true] offline package.
-*   [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-*   [zxp19821005/My\_AUR\_Files](https://github.com/zxp19821005/My_AUR_Files) - Store My AUR Files Only
-*   [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-*   [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
-*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-*   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
-*   [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
-*   [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
-*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-*   [YoujiaZhang/Navicat-Premium-15](https://github.com/YoujiaZhang/Navicat-Premium-15) - Navicat Premium 15 破解激活（亲测有效）如果经济允许，还是希望可以支持正版！！！windows10 & ubuntu
-*   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
-*   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
-
-## Python
-
-*   [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-*   [gpustack/gpustack](https://github.com/gpustack/gpustack) - A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment.
-*   [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model routing using your logic or ours
-*   [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
-*   [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
-*   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-*   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-*   [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) - 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计
-*   [batrachianai/textual-diff-view](https://github.com/batrachianai/textual-diff-view) - A Textual widget for beautiful diffs in the terminal
-*   [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
-*   [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-*   [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-*   [DMontgomery40/intel-npu-top](https://github.com/DMontgomery40/intel-npu-top) - A simplified, text-only proof-of-concept for monitoring Intel Meteor Lake NPU usage in real-time via sysfs on Linux.
-*   [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) - GraphRAG using Local LLMs - Features robust API and multiple apps for Indexing/Prompt Tuning/Query/Chat/Visualizing/Etc. This is meant to be the ultimate GraphRAG/KG local LLM app.
-*   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - \[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-*   [justplus/llm-eval](https://github.com/justplus/llm-eval) - 大语言模型评估平台，支持多种评估基准、自定义数据集和性能测试。支持基于自定义数据集的RAG评估。
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-*   [elyra-ai/elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab with an AI centric approach.
-*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-*   [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-*   [lzskyline/OpenDify](https://github.com/lzskyline/OpenDify) - OpenDify 是一个将 Dify API 转换为 OpenAI API 格式的代理服务器。它允许使用 OpenAI API 客户端直接与 Dify 服务进行交互，支持保持会话历史。OpenDify is a proxy server that transforms the Dify API into OpenAI API format. It allows direct interaction with Dify services using any OpenAI API client.
-*   [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) - remove augmentcode free trial account limit
-*   [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
-*   [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-*   [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
-*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-*   [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
-*   [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
-*   [hustyichi/dify-rag](https://github.com/hustyichi/dify-rag) - dify's rag patch module
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-*   [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
-*   [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-*   [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - \[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-*   [PangTouY00/aggregator](https://github.com/PangTouY00/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-*   [blair-c/tailwind-to-css-snippets](https://github.com/blair-c/tailwind-to-css-snippets) - VS Code Snippet Extension
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-*   [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify) - 🎉 Vue3-Toastify allows you to add notifications to your app with ease.
-*   [oeyoews/tiddlywiki-docs](https://github.com/oeyoews/tiddlywiki-docs) -
-*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-*   [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
-*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-*   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-*   [replicate/cog-llama-template](https://github.com/replicate/cog-llama-template) - LLaMA Cog template
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-*   [metaescape/Wen](https://github.com/metaescape/Wen) - 中文语言服务
-*   [whatbeg/GodTian\_Pinyin](https://github.com/whatbeg/GodTian_Pinyin) - A Simple Chinese Pinyin Input Method Using HMM and Some Tricks with Python
-*   [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
-*   [ading2210/poe-api](https://github.com/ading2210/poe-api) - \[UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
-*   [mouday/wallpaper-database](https://github.com/mouday/wallpaper-database) - wallpaper database
-*   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-*   [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase.
-*   [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
-*   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
-*   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
-*   [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - An AI-powered smart vocabulary tool with features like One-click vocabulary building and story-based memorization.
-*   [kaedea/notion-up](https://github.com/kaedea/notion-up) - Use NotionUp (Notion Backup) + CircleCI to  backup your notion data nightly.｜自动备份 Notion 数据。｜Notion データのバックアップを自動化する
-*   [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
-*   [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
-
 ## TypeScript
 
+*   [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+*   [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 *   [Janlaywss/cloud-code](https://github.com/Janlaywss/cloud-code) - cloud-code
 *   [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 *   [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink. 100% Free, Zero config, one command setup.
@@ -201,7 +64,7 @@
 *   [seifghazi/claude-code-proxy](https://github.com/seifghazi/claude-code-proxy) - Proxy that captures and visualizes in-flight Claude Code requests and conversations.
 *   [chrlsio/agent-skills](https://github.com/chrlsio/agent-skills) - Lightweight, high-performance cross-platform desktop app to browse, sync, and manage AI agent skills across Claude Code, Cursor, Gemini CLI, Copilot, and more.（轻量高性能的跨平台 AI Agent Skills 管理工具）
 *   [congwa/skill-manager](https://github.com/congwa/skill-manager) - 一款跨平台 AI 编码工具 Skill 统一管理器，支持导入项目、发现并管理项目中各工具的 Skill，连接 [skills.sh](https://skills.sh/) 在线仓库进行安装/更新，并提供一键备份同步至 GitHub / Gitee 远程仓库的能力
-*   [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+*   [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 *   [ipikuka/next-mdx-remote-client](https://github.com/ipikuka/next-mdx-remote-client) - A wrapper of `@mdx-js/mdx` for `Next.js` applications in order to load MDX content. It is a fork of `next-mdx-remote`.
 *   [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 *   [Open-Source-CQUT/Golang-Doc](https://github.com/Open-Source-CQUT/Golang-Doc) - golang learning documentation
@@ -275,7 +138,6 @@
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 *   [nshen/vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - ⚡ Vite plugin for Cesium
 *   [oyjt/uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template) - 使用uniapp+vite+vue3+typescript+uview-plus+unocss 搭建的适合团队协作的快速开发模版
-*   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 *   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 *   [Leecason/element-tiptap](https://github.com/Leecason/element-tiptap) - 🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2)
 *   [worryzyy/awesome-cursor-download](https://github.com/worryzyy/awesome-cursor-download) - Cursor历史版本下载、Cursor下载链接追踪器，Cursor beta版本、 Cursor下载中心
@@ -457,7 +319,6 @@
 *   [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 *   [dc7290/next-export-optimize-images](https://github.com/dc7290/next-export-optimize-images) - Optimize images at build time with Next.js.
 *   [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-*   [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
 *   [un-ts/deeplx](https://github.com/un-ts/deeplx) - An unofficial but powerful and easy-to-use yet free DeepL API client for Node.js using [DeepL](https://www.deepl.com) by porting [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX).
 *   [uxiew/epub2MD](https://github.com/uxiew/epub2MD) - convert epub file to markdown files
 *   [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
@@ -628,7 +489,6 @@
 *   [charkour/react-reactions](https://github.com/charkour/react-reactions) - 😲   Create custom reaction pickers and counters or use your favorites!
 *   [Tecvan-fe/vscode-lsp-sample](https://github.com/Tecvan-fe/vscode-lsp-sample) -
 *   [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
-*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 *   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
 *   [transitive-bullshit/kwote](https://github.com/transitive-bullshit/kwote) - Create beautiful quotes that capture your attention.
 *   [tiddly-gittly/Modern.TiddlyDev](https://github.com/tiddly-gittly/Modern.TiddlyDev) - Modern TiddlyWiki Developing Environment
@@ -638,6 +498,171 @@
 *   [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
 *   [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
 *   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
+*   [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+*   [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+*   [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
+
+## Python
+
+*   [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+*   [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+*   [gpustack/gpustack](https://github.com/gpustack/gpustack) - A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment.
+*   [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model routing using your logic or ours
+*   [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
+*   [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
+*   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+*   [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
+*   [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) - 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计
+*   [batrachianai/textual-diff-view](https://github.com/batrachianai/textual-diff-view) - A Textual widget for beautiful diffs in the terminal
+*   [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
+*   [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+*   [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+*   [DMontgomery40/intel-npu-top](https://github.com/DMontgomery40/intel-npu-top) - A simplified, text-only proof-of-concept for monitoring Intel Meteor Lake NPU usage in real-time via sysfs on Linux.
+*   [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) - GraphRAG using Local LLMs - Features robust API and multiple apps for Indexing/Prompt Tuning/Query/Chat/Visualizing/Etc. This is meant to be the ultimate GraphRAG/KG local LLM app.
+*   [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - \[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+*   [justplus/llm-eval](https://github.com/justplus/llm-eval) - 大语言模型评估平台，支持多种评估基准、自定义数据集和性能测试。支持基于自定义数据集的RAG评估。
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+*   [elyra-ai/elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab with an AI centric approach.
+*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+*   [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+*   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+*   [lzskyline/OpenDify](https://github.com/lzskyline/OpenDify) - OpenDify 是一个将 Dify API 转换为 OpenAI API 格式的代理服务器。它允许使用 OpenAI API 客户端直接与 Dify 服务进行交互，支持保持会话历史。OpenDify is a proxy server that transforms the Dify API into OpenAI API format. It allows direct interaction with Dify services using any OpenAI API client.
+*   [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) - remove augmentcode free trial account limit
+*   [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
+*   [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+*   [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
+*   [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+*   [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+*   [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+*   [hustyichi/dify-rag](https://github.com/hustyichi/dify-rag) - dify's rag patch module
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+*   [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
+*   [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+*   [PangTouY00/aggregator](https://github.com/PangTouY00/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+*   [blair-c/tailwind-to-css-snippets](https://github.com/blair-c/tailwind-to-css-snippets) - VS Code Snippet Extension
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+*   [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify) - 🎉 Vue3-Toastify allows you to add notifications to your app with ease.
+*   [oeyoews/tiddlywiki-docs](https://github.com/oeyoews/tiddlywiki-docs) -
+*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+*   [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
+*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+*   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
+*   [replicate/cog-llama-template](https://github.com/replicate/cog-llama-template) - LLaMA Cog template
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+*   [metaescape/Wen](https://github.com/metaescape/Wen) - 中文语言服务
+*   [whatbeg/GodTian\_Pinyin](https://github.com/whatbeg/GodTian_Pinyin) - A Simple Chinese Pinyin Input Method Using HMM and Some Tricks with Python
+*   [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
+*   [ading2210/poe-api](https://github.com/ading2210/poe-api) - \[UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+*   [mouday/wallpaper-database](https://github.com/mouday/wallpaper-database) - wallpaper database
+*   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
+*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+*   [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase.
+*   [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
+*   [xiaoxx970/chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal) - Use ChatGPT in terminal
+*   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
+*   [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - An AI-powered smart vocabulary tool with features like One-click vocabulary building and story-based memorization.
+*   [kaedea/notion-up](https://github.com/kaedea/notion-up) - Use NotionUp (Notion Backup) + CircleCI to  backup your notion data nightly.｜自动备份 Notion 数据。｜Notion データのバックアップを自動化する
+*   [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
+*   [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
+
+## Rust
+
+*   [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+*   [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [gmg137/netease-cloud-music-api](https://github.com/gmg137/netease-cloud-music-api) - 网易云音乐API
+*   [ImageOptim/libimagequant](https://github.com/ImageOptim/libimagequant) - Palette quantization library that powers pngquant and other PNG optimizers
+*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+*   [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
+*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
+*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+
+## Go
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+*   [nielspeter/claude-code-proxy](https://github.com/nielspeter/claude-code-proxy) - Lightweight HTTP proxy enabling Claude Code to work with OpenRouter (200+ models), OpenAI Direct (GPT-5), and Ollama (local inference). Full tool support, streaming, thinking blocks.
+*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+*   [fastclaw-ai/fastclaw](https://github.com/fastclaw-ai/fastclaw) - Faster and better openclaw alternative
+*   [gookit/gcli](https://github.com/gookit/gcli) - 🖥 Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. Go的命令行应用，工具库，运行CLI命令，支持命令行色彩，用户交互，进度显示，数据格式化显示，生成bash/zsh命令补全脚本
+*   [oeyoews/go-image-server](https://github.com/oeyoews/go-image-server) - 本地图片上传与管理服务，基于 Gin 的轻量级 HTTP 服务，支持上传、列表、删除与静态访问图片。
+*   [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
+*   [lostvip-com/ruoyi-go](https://github.com/lostvip-com/ruoyi-go) - 🎉若依后台管理系统（golang版）,基于 gin + gorm，支持mybatis式的sql与go代码分离，代码风格极尽简洁，传统模板引擎技术，适合后端开发人员单挑一个项目使用。 ruoyi go
+*   [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
+*   [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
+*   [r3labs/sse](https://github.com/r3labs/sse) - Server Sent Events server and client for Golang
+*   [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Also supports external providers like Azure, OpenRouter and Local Ollama.
+*   [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
+*   [smallnest/goclaw](https://github.com/smallnest/goclaw) - An open-source AI assistant framework like openclaw
+*   [elastic/go-sysinfo](https://github.com/elastic/go-sysinfo) - go-sysinfo is a library for collecting system information.
+*   [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+*   [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+*   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
+*   [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
+*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+*   [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+*   [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+*   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+*   [jolav/codetabs](https://github.com/jolav/codetabs) - Free Online Services. Github/GitLab star history. Count Lines of Code. CORS proxy server. IP GeoLocation. HTTP Headers. Random Data. Api weather temp. Alexa ranking.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+*   [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
+*   [soulteary/amazing-openai-api](https://github.com/soulteary/amazing-openai-api) - Convert different model APIs into the OpenAI API format out of the box.
+*   [djyde/snp](https://github.com/djyde/snp) - VS Code code snippet generator
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
+*   [dianbanjiu/rss\_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
+*   [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
+*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
+
+## Shell
+
+*   [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
+*   [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+*   [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+*   [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
+*   [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh
+*   [junjiem/dify-plugin-repackaging](https://github.com/junjiem/dify-plugin-repackaging) - Scripting tool for downloading Dify plugin package from Dify Marketplace and Github and repackaging \[true] offline package.
+*   [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
+*   [zxp19821005/My\_AUR\_Files](https://github.com/zxp19821005/My_AUR_Files) - Store My AUR Files Only
+*   [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+*   [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
+*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+*   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
+*   [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
+*   [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
+*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+*   [YoujiaZhang/Navicat-Premium-15](https://github.com/YoujiaZhang/Navicat-Premium-15) - Navicat Premium 15 破解激活（亲测有效）如果经济允许，还是希望可以支持正版！！！windows10 & ubuntu
+*   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+*   [joshuafontany/VSCode-TW5-Syntax](https://github.com/joshuafontany/VSCode-TW5-Syntax) - TiddlyWiki5 Syntax Highlighting for Visual Studio Code
 
 ## JavaScript
 
@@ -768,7 +793,6 @@
 *   [oeyoews/markdown-it-pangu](https://github.com/oeyoews/markdown-it-pangu) - A markdown-it plugin which inserts whitespace into your markdown files
 *   [vincentbel/remark-pangu](https://github.com/vincentbel/remark-pangu) - 给 Markdown 中英文自动插入空格的 remark 插件
 *   [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
-*   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 *   [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 *   [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
 *   [semlinker/reactjs-interview-questions](https://github.com/semlinker/reactjs-interview-questions) - List of top 304 ReactJS Interview Questions & Answers
@@ -832,7 +856,7 @@
 *   [leerob/mastering-nextjs](https://github.com/leerob/mastering-nextjs) - A free video course for building static and server-side rendered applications with Next.js and React.
 *   [coffeedeveloper/typing.js](https://github.com/coffeedeveloper/typing.js) - javascript typing plugin
 *   [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) - Tabnine Client for Neovim
-*   [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
+*   [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
 *   [safak/nextjs-tutorial](https://github.com/safak/nextjs-tutorial) -
 *   [simonswiss/next.js](https://github.com/simonswiss/next.js) - The React Framework
 *   [rolodato/dotenv-safe](https://github.com/rolodato/dotenv-safe) - Load environment variables from .env and ensure they are all present
@@ -850,7 +874,7 @@
 *   [dhiant/react-chatGPT-clone](https://github.com/dhiant/react-chatGPT-clone) - 😎 A clone of ChatGPT
 *   [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 *   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app\_4jvnd48x7khm1
 *   [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 *   [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 *   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -950,7 +974,6 @@
 *   [judygab/web-dev-projects](https://github.com/judygab/web-dev-projects) - Projects repo for tutorials for my YouTube Channel
 *   [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage) - My homepage
 *   [mblode/craft-next](https://github.com/mblode/craft-next) -
-*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 *   [transitive-bullshit/create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable react libraries.
 *   [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black\_heart: Create and share beautiful images of your source code
 *   [JS-DevTools/version-bump-prompt](https://github.com/JS-DevTools/version-bump-prompt) - Interactive CLI that bumps your version numbers and more
@@ -988,28 +1011,6 @@
 *   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 *   [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
 *   [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
-
-## Rust
-
-*   [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-*   [gmg137/netease-cloud-music-api](https://github.com/gmg137/netease-cloud-music-api) - 网易云音乐API
-*   [ImageOptim/libimagequant](https://github.com/ImageOptim/libimagequant) - Palette quantization library that powers pngquant and other PNG optimizers
-*   [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
-*   [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
-*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 
 ## Jupyter Notebook
 
@@ -1207,7 +1208,6 @@
 *   [csincs123/cesiumjs-learn](https://github.com/csincs123/cesiumjs-learn) - cesiumjs教程的vue3版本
 *   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.
 *   [fantastic-admin/basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 面向 AI 的管理系统框架，兼容PC、移动端。AI-oriented management system framework, compatible with PC and mobile device.
-*   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 *   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 *   [jonehoo/Siwu-IoT-Views](https://github.com/jonehoo/Siwu-IoT-Views) - 基于RuoYi-Vue 3.8.8和Dataroom 2.0.0 集成开发的物联网可视化平台
